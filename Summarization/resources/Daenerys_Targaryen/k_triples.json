@@ -1,0 +1,240 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/actor": {
+            "label": "Actor",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": "0.12855524679640665e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Emilia_Clarke",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/allegiance": {
+            "label": "Allegiance",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": "0.543234521756035e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/House_Targaryen",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": "0.1745550975700626e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Yunkai'i_slave_6",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.1594211450989286e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Ornela",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.1471294000494534e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Unsullied",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.14385313141287082e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Yunkai'i_slave_1",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.14385313141287082e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Yunkai'i_slave_2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.1415926346937519e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Yunkai'i_slave_3",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.1415926346937519e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Yunkai'i_slave_4",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.1415926346937519e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Yunkai'i_slave_5",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.12783260620949638e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Drogon",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.12783260620949638e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Rhaegal",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.12783260620949638e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Viserion",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/appearances": {
+            "label": "Appearances",
+            "pred_pos_tag": "VBZ",
+            "resources": [
+                {
+                    "rank": "0.11963190184049079e0",
+                    "resource": "49",
+                    "resource_info": [
+                        "49"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/culture": {
+            "label": "Culture",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": "0.3528483919411826e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Valyrians",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/place": {
+            "label": "Place",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.12106805240754048e0",
+                    "resource": "Dragonstone",
+                    "resource_info": [
+                        "Dragonstone"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": "0.12106805240754048e0",
+                    "resource": "Free Cities",
+                    "resource_info": [
+                        "Free Cities"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/role": {
+            "label": "role",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": "0.1162796243362132e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Emilia_Clarke",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/season": {
+            "label": "season",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": "0.12971148436872137e0",
+                    "resource": "1234567",
+                    "resource_info": [
+                        "1234567"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/status": {
+            "label": "status",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": "0.9009957345697022e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Category:Status:_Alive",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/title": {
+            "label": "Title",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.12920656362986213e0",
+                    "resource": "Daenerys I Targaryen",
+                    "resource_info": [
+                        "Daenerys I Targaryen"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/titles": {
+            "label": "Titles",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.11069593647828117e0",
+                    "resource": "Breaker of Chains",
+                    "resource_info": [
+                        "Breaker of Chains"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/Daenerys_Targaryen",
+        "gender": "",
+        "name": "Daenerys Targaryen",
+        "types": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/ontology/Agent|http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/ontology/FictionalCharacter|http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/ontology/Person",
+        "types_sents": [
+            "a fictional character",
+            "a person"
+        ]
+    }
+}

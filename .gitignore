@@ -4,3 +4,6 @@
 .settings
 .cache-main
 target
+DataAnalysis/.ipynb_checkpoints/
+Summarization/.ipynb_checkpoints/
+Summarization/__pycache__/

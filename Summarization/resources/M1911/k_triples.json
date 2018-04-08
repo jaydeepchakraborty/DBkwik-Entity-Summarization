@@ -1,0 +1,420 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/class": {
+            "label": "class",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Handgun",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Pistol",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/damage": {
+            "label": "damage",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "100",
+                    "resource_info": [
+                        "100"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/hud": {
+            "label": "HUD",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/File:Colt_.45_Pickup_CoD.png",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/File:Colt_.45_Pickup_CoD2.png",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/File:M1911_HUD_icon_MW2.png",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/File:M1911_Pickup_CoD4.png",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/File:WaW_Pickup_Colt.png",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "100",
+                    "resource_info": [
+                        "100"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/papdamage": {
+            "label": "papdamage",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "1000",
+                    "resource_info": [
+                        "1000"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/papreload": {
+            "label": "papreload",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "1.6",
+                    "resource_info": [
+                        "1.6"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "1.9",
+                    "resource_info": [
+                        "1.9"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/range": {
+            "label": "range",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "-1200.0",
+                    "resource_info": [
+                        "-1200.0"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "-2700.0",
+                    "resource_info": [
+                        "-2700.0"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "-750.0",
+                    "resource_info": [
+                        "-750.0"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/regreload": {
+            "label": "regreload",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "1.63",
+                    "resource_info": [
+                        "1.63"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "1.9",
+                    "resource_info": [
+                        "1.9"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/reload": {
+            "label": "reload",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "1.8",
+                    "resource_info": [
+                        "1.8"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "1.9",
+                    "resource_info": [
+                        "1.9"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/used": {
+            "label": "used",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/British_Army",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Special_Air_Service",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/United_States_Army",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/United_States_Marine_Corps",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Viktor_Zakhaev",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/property/weapon": {
+            "label": "weapon",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/%22Tank%22_Dempsey",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Denny_(World_at_War)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Donlon",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Evans",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Foley_(World_War_II)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Glover_(World_at_War)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Griggs",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Grigori_Weaver",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Henderson_(World_at_War)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/John_%22Soap%22_MacTavish",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Lozano",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Martin",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Polonsky",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Rivera",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Roebuck",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Rooker",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Ryan_(World_at_War)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Swift",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Takeo_Masaki",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Tom_Sullivan",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Vasquez",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/resource/Viktor_Zakhaev",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/M1911_pistol",
+        "gender": "",
+        "name": "M1911",
+        "types": "http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/ontology/Device|http://dbkwik.webdatacommons.org/Call_of_Duty_Wik/ontology/Weapon",
+        "types_sents": [
+            "a device",
+            "a weapon"
+        ]
+    }
+}

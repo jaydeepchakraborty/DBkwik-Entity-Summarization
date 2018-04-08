@@ -1,0 +1,475 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/creator": {
+            "label": "creator",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Butch_Hartman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/developer": {
+            "label": "developer",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nelvana",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nickelodeon",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/endtheme": {
+            "label": "endtheme",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "\"The Fairly OddParents!\"",
+                    "resource_info": [
+                        "\"The Fairly OddParents!\""
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/executiveProducer": {
+            "label": "executive producer",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Butch_Hartman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Fred_Seibert",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/format": {
+            "label": "format",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:Animated_television_series",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/pictureFormat": {
+            "label": "picture format",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:480i",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:720p",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:HDTV",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:SDTV",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/producer": {
+            "label": "producer",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Billionfold_Inc.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Frederator_Studios",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/George_A._Goodchild",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName": {
+            "label": "show name",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Abra-Catastrophe!_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Channel_Chasers_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Crimson_Chin_Webtoons",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Fairy_Idol_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jimmy_Timmy_Power_Hour_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jimmy_Timmy_Power_Hour_2_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jimmy_Timmy_Power_Hour_3_(DVD)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Live-Action_Movies",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._1",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._3",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._4",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons:_Attack_of_the_Toybots",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons:_Battle_for_Volcano_Island",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons:_Freeze_Frame_Frenzy",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons_Nitro",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Scary_GodParents_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/School's_Out!:_The_Musical_(DVD_and_VHS)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Superhero_Spectacle",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_1)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_10)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_2)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_3)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_4)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_5)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_6)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_7)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_8)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_9)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Timmy's_Top_Wishes",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring": {
+            "label": "starring",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Carlos_Alazraqui",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Daran_Norris",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Faith_Abrahams",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Frankie_Muniz",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Gary_LeRoi_Gray",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Grey_DeLisle-Griffin",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Ibrahim_Haneef_Muhammad",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jim_Ward",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Mary_Kay_Bergman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Susanne_Blakeslee",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Tara_Strong",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Tom_Kenny",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/website": {
+            "label": "website",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://www.nick.com/shows/fairly-oddparents",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/The_Fairly_OddParents",
+        "gender": "",
+        "name": "The Fairly OddParents!",
+        "types": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/ontology/TelevisionShow|http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/ontology/Work",
+        "types_sents": [
+            "a television show",
+            "a work"
+        ]
+    }
+}

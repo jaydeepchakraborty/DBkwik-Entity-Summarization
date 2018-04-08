@@ -1,0 +1,218 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/actor": {
+            "label": "Actor",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.12857949358827755e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Kit_Harington",
+                    "resource_info": [
+                        "Kit Harington"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/allegiance": {
+            "label": "Allegiance",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.5593648002474267e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/House_Stark",
+                    "resource_info": [
+                        "House Stark"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": "0.20622365998312842e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Tormund",
+                    "resource_info": [],
+                    "rev_resource_info": [
+                        "Tormund"
+                    ],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.17135086431176447e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Dim_Dalba",
+                    "resource_info": [],
+                    "rev_resource_info": [
+                        "Dim Dalba"
+                    ],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.1524571313686924e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Melisandre",
+                    "resource_info": [],
+                    "rev_resource_info": [
+                        "Melisandre"
+                    ],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.12783260620949638e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Ghost",
+                    "resource_info": [],
+                    "rev_resource_info": [
+                        "Ghost"
+                    ],
+                    "reverse": "true"
+                },
+                {
+                    "rank": "0.12783260620949638e0",
+                    "resource": "The Night's Watch",
+                    "resource_info": [
+                        "The Night's Watch"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/appearances": {
+            "label": "Appearances",
+            "pred_pos_tag": "VBZ",
+            "resources": [
+                {
+                    "rank": "0.11963190184049079e0",
+                    "resource": "49",
+                    "resource_info": [
+                        "49"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/culture": {
+            "label": "Culture",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.5014277585151796e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Northmen",
+                    "resource_info": [
+                        "Northmen"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/place": {
+            "label": "Place",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.12106805240754048e0",
+                    "resource": "Tower of Joy",
+                    "resource_info": [
+                        "Tower of Joy"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": "0.12106805240754048e0",
+                    "resource": "Winterfell",
+                    "resource_info": [
+                        "Winterfell"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/religion": {
+            "label": "Religion",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.21091055544456702e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/Old_Gods_of_the_Forest",
+                    "resource_info": [
+                        "Old Gods of the Forest"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/season": {
+            "label": "season",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": "0.12971148436872137e0",
+                    "resource": "1234567",
+                    "resource_info": [
+                        "1234567"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/status": {
+            "label": "status",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": "0.13020465772759351e0",
+                    "resource": "Alive",
+                    "resource_info": [
+                        "Alive"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/title": {
+            "label": "Title",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.12920656362986213e0",
+                    "resource": "Jon Snow",
+                    "resource_info": [
+                        "Jon Snow"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/property/titles": {
+            "label": "Titles",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": "0.2441910982380708e0",
+                    "resource": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/resource/King_in_the_North",
+                    "resource_info": [
+                        "King in the North"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/Jon_Snow",
+        "gender": "",
+        "name": "Jon Snow",
+        "types": "http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/ontology/Agent|http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/ontology/FictionalCharacter|http://dbkwik.webdatacommons.org/Game_of_Thrones_Wik/ontology/Person",
+        "types_sents": [
+            "a fictional character",
+            "a person"
+        ]
+    }
+}

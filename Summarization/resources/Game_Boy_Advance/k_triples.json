@@ -1,0 +1,302 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/caption": {
+            "label": "caption",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "1",
+                    "resource_info": [
+                        "1"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/compatibility": {
+            "label": "compatibility",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Game_Boy",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Game_Boy_Color",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/family": {
+            "label": "family",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Game_Boy_line",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/generation": {
+            "label": "generation",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/History_of_video_games_(Sixth_generation_era)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/lifespan": {
+            "label": "lifespan",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "--03-21",
+                    "resource_info": [
+                        "--03-21"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/logo": {
+            "label": "logo",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/File:Gameboy_advance_logo.svg",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/media": {
+            "label": "media",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Nintendo_DS",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/ROM_cartridge",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platformOfOrigin": {
+            "label": "platform of origin",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mario_&_Luigi_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Super_Mario_Advance_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms": {
+            "label": "platforms",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Donkey_Kong_Country_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Final_Fantasy_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Kingdom_Hearts:_Chain_of_Memories",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Kingdom_Hearts_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mario_&_Luigi_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mario_vs._Donkey_Kong_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Megami_Tensei",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metroid_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Super_Mario_Advance_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Super_Mario_Bros.:_The_Lost_Levels",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Super_Mario_World",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tekken_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Legend_of_Zelda:_A_Link_to_the_Past",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Legend_of_Zelda:_Four_Swords",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Legend_of_Zelda:_The_Minish_Cap",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Legend_of_Zelda_(video_game)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Yoshi's_Universal_Gravitation",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Zelda_II:_The_Adventure_of_Link",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Zone_of_the_Enders_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/type": {
+            "label": "type",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Handheld_game_console",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/Game_Boy_Advance",
+        "gender": "",
+        "name": "Game Boy Advance",
+        "types": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Device|http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/InformationAppliance",
+        "types_sents": [
+            "a device",
+            "an information appliance"
+        ]
+    }
+}
