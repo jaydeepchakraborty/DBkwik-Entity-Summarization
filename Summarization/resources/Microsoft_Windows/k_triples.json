@@ -1,0 +1,582 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/developer": {
+            "label": "developer",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Microsoft",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/kernelType": {
+            "label": "kernel type",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/DOS",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Hybrid_kernel",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/license": {
+            "label": "license",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Commercial_software",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Proprietary_software",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/logo": {
+            "label": "logo",
+            "pred_pos_tag": "VBD",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "250",
+                    "resource_info": [
+                        "250"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platform": {
+            "label": "platform",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(2013_video_game)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms": {
+            "label": "platforms",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Alan_Wake",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Assassin's_Creed_III",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Assassin's_Creed_IV:_Black_Flag",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Batman:_Arkham_Knight",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Batman:_Arkham_Origins",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Blood_Omen:_Legacy_of_Kain",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Blood_Omen_2:_Legacy_of_Kain",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dead_Space_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dead_or_Alive_Online",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Devil_May_Cry_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Devil_May_Cry_3:_Dante's_Awakening",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Devil_May_Cry_4",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/DmC:_Devil_May_Cry",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dragon_Ball_XenoVerse",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Enter_the_Matrix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Evil_Dead:_Hail_to_the_King",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Fatal_Fury_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Final_Fantasy_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Final_Fantasy_VII",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Friday_the_13th:_The_Game",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain:_Defiance",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain:_Soul_Reaver",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain:_Soul_Reaver_2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_3",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Megami_Tensei",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Rising:_Revengeance",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid:_VR_Missions",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid_2:_Sons_of_Liberty",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Persona_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Prototype_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil:_Operation_Raccoon_City",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil:_Revelations",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_(1996_video_game)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_3:_Nemesis",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_4",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_5",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_6",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_Survivor",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Shantae_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sonic_&_All-Stars_Racing_Transformed",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sonic_the_Hedgehog_4:_Episode_I",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sonic_the_Hedgehog_4:_Episode_II",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Street_Fighter_X_Tekken",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tekken_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Amazing_Spider-Man_(2012_video_game)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Matrix:_Path_of_Neo",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Matrix_Online",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(2013_video_game)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Virtua_Fighter_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/screenshot": {
+            "label": "screenshot",
+            "pred_pos_tag": "VBD",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "300",
+                    "resource_info": [
+                        "300"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/sourceModel": {
+            "label": "source model",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Closed_source",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Closed_source_software",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Shared_source",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/updatemodel": {
+            "label": "updatemodel",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Windows_Anytime_Upgrade",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Windows_Update",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/website": {
+            "label": "website",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://windows.microsoft.com",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/Microsoft_Windows",
+        "gender": "",
+        "name": "Microsoft Windows",
+        "types": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Software|http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Work",
+        "types_sents": [
+            "a software",
+            "a work"
+        ]
+    }
+}

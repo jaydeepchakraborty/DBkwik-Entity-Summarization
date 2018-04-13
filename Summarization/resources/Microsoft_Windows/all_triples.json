@@ -1,0 +1,2100 @@
+{
+    "head": {
+        "vars": [
+            "p",
+            "p_label",
+            "o",
+            "prop_final_rank",
+            "obj_rank",
+            "rank",
+            "reverse"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Alan_Wake"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Assassin's_Creed_III"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15425"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Assassin's_Creed_IV:_Black_Flag"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Batman:_Arkham_Knight"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1585"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Batman:_Arkham_Origins"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1585"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Blood_Omen:_Legacy_of_Kain"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1545623713338721"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Blood_Omen_2:_Legacy_of_Kain"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1545623713338721"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Closed_source"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/sourceModel"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "source model",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Closed_source_software"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/sourceModel"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "source model",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Commercial_software"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/license"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "license",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/DOS"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18178017673595925"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/kernelType"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "kernel type",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dead_Space_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dead_or_Alive_Online"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Devil_May_Cry_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Devil_May_Cry_3:_Dante's_Awakening"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15579545454545454"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Devil_May_Cry_4"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15579545454545454"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/DmC:_Devil_May_Cry"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15579545454545454"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dragon_Ball_XenoVerse"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Enter_the_Matrix"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Evil_Dead:_Hail_to_the_King"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Fatal_Fury_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Final_Fantasy_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Final_Fantasy_VII"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Friday_the_13th:_The_Game"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Hybrid_kernel"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/kernelType"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "kernel type",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1556596549713048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain:_Defiance"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1545623713338721"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain:_Soul_Reaver"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1545623713338721"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Legacy_of_Kain:_Soul_Reaver_2"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1545623713338721"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19559581555332173"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_2"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1553125"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platform"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platform",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_2"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1553125"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Mass_Effect_3"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1553125"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Megami_Tensei"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Rising:_Revengeance"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16228710978835978"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16228710978835978"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid:_VR_Missions"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid_2:_Sons_of_Liberty"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16228710978835978"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Microsoft"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.24583402800200027"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/developer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "developer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Persona_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Proprietary_software"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20815117859390803"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/license"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "license",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Prototype_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16815104166666667"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil:_Operation_Raccoon_City"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil:_Revelations"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15747705258683786"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_(1996_video_game)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15747705258683786"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_2"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16717346967065083"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_3:_Nemesis"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1650606164983996"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_4"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15747705258683786"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_5"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15747705258683786"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_6"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15747705258683786"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Resident_Evil_Survivor"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Shantae_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Shared_source"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/sourceModel"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "source model",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sonic_&_All-Stars_Racing_Transformed"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sonic_the_Hedgehog_4:_Episode_I"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1925"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sonic_the_Hedgehog_4:_Episode_II"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1925"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Street_Fighter_X_Tekken"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tekken_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Amazing_Spider-Man_(2012_video_game)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Matrix:_Path_of_Neo"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/The_Matrix_Online"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(2013_video_game)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platform"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platform",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(2013_video_game)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Virtua_Fighter_(series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Windows_Anytime_Upgrade"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/updatemodel"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "updatemodel",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Windows_Update"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1762366984750897"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/updatemodel"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "updatemodel",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://windows.microsoft.com"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/website"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "website",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "type": "literal",
+                    "value": "250"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/logo"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "logo",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "type": "literal",
+                    "value": "300"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/screenshot"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "screenshot",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "ARM, IA-32, x86-64 and Itanium",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/supportedPlatforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "supported platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "C, C++ and Assembly language",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/programmedIn"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "programmed in",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Graphical",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/ui"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "ui",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Multilingual",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/language"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "language",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Personal computing",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/marketingTarget"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "marketing target",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Publicly released",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/workingState"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "working state",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "The latest Windows release, Windows 7, showing desktop and start menu",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/caption"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "caption",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Windows 9x, Windows CE and Windows NT",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/family"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "family",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Windows timeline",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/title"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "title",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "background:#D3D3D3",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/titlestyle"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "titlestyle",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "yes",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/frequentlyUpdated"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "frequently updated",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            }
+        ]
+    }
+}

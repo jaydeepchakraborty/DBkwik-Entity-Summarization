@@ -1,0 +1,309 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/compatibility": {
+            "label": "compatibility",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/PlayStation_Vita",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/generation": {
+            "label": "generation",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/History_of_video_game_consoles_(seventh_generation)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/lifespan": {
+            "label": "lifespan",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "--12-12",
+                    "resource_info": [
+                        "--12-12"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/logo": {
+            "label": "logo",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/File:PSP_Logo.svg",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/manufacturer": {
+            "label": "manufacturer",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Sony_Computer_Entertainment",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/media": {
+            "label": "media",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Digital_distribution",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Universal_Media_Disc",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/onlineservice": {
+            "label": "onlineservice",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/PlayStation_Network",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/platforms": {
+            "label": "platforms",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Blood+",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Blood:_The_Last_Vampire",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Code_Geass",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dead_or_Alive_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Dead_or_Alive_Paradise",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Digimon_Adventure",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Final_Fantasy_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/God_of_War:_Ghost_of_Sparta",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/God_of_War_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Jak_and_Daxter",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Jak_and_Daxter:_The_Lost_Frontier",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Kingdom_Hearts_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Kingdom_Hearts_Birth_by_Sleep",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Kingdom_Hearts_Birth_by_Sleep_Final_Mix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Megami_Tensei",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Acid",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Acid_2",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid:_Peace_Walker",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid:_Portable_Ops",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Metal_Gear_Solid:_Portable_Ops_Plus",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Persona_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tekken_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Tomb_Raider_(series)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/type": {
+            "label": "type",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Handheld_game_console",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/weight": {
+            "label": "weight",
+            "pred_pos_tag": "VBD",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "189.0",
+                    "resource_info": [
+                        "189.0"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/PlayStation_Portable",
+        "gender": "",
+        "name": "PlayStation Portable",
+        "types": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Device|http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/InformationAppliance",
+        "types_sents": [
+            "a device",
+            "an information appliance"
+        ]
+    }
+}

@@ -1,0 +1,379 @@
+{
+    "head": {
+        "vars": [
+            "p",
+            "p_label",
+            "o",
+            "prop_final_rank",
+            "obj_rank",
+            "rank",
+            "reverse"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/resource/Baahubali:The_Conclusion"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1925"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/followedBy"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "followed by",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/resource/Prabhas"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3284577629247644"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2015-07-10"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/releaseDate"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "release date",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Anushka Shetty",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Baahubali poster.jpg",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/image"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "image",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Baahubali: The Beginning",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/title"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "title",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Nassar",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Prasad Devineni",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Ramya Krishnan",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Rana Daggubati",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "S.S Rajamouli",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/director"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "director",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Sathyaraj",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Shobu Yarlagadda",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Tamannaah",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,588 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/affiliation": {
+            "label": "affiliation",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Ball_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bandinero",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Banzai_Bill",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Baron_Brrn",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Blaze_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bomber_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bone_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Boom_Boom",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Broque_Monsieur",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bullet_Bill",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Buster_Beetle",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Circus_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Cooligan",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Curve_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Dry_Bones",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Dry_Skull",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Fire_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Fly_Guy",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Frost_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Goomba",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Goombulb",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Hammer_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Heligoomba",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Ice_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/King_Bill",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/King_Kaliente",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Koopa_Kid",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Koopa_Paratroopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Koopatrol",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Magikoopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Mecha-Koopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Monty_Mole",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Nessdark",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Para-Beetle",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Parabuzzy",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Paragoomba",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Piranha_Plant",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Pokey",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Scoomba",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Shuriken_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Shy_Guy",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Sledge_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Spiny_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Storm_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Swoop",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Thunder_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Thwomp",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Torpedo_Ted",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Twister_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Vortex_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/age": {
+            "label": "age",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "35",
+                    "resource_info": [
+                        "35"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/character": {
+            "label": "character",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Mario_&_Sonic_at_the_London_Olympics/Stats",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/class": {
+            "label": "class",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "Anti Hero",
+                    "resource_info": [
+                        "Anti Hero"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/genre": {
+            "label": "genre",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Super_Mario_Galaxian",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/leader": {
+            "label": "leader",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Koopa_Troop",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Koopalings",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/mario": {
+            "label": "Mario",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "Bowser",
+                    "resource_info": [
+                        "Bowser"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/nintendo": {
+            "label": "Nintendo",
+            "pred_pos_tag": "NNP",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "Bowser",
+                    "resource_info": [
+                        "Bowser"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/relations": {
+            "label": "relations",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Army_Hammer_Bro.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bowser_Jr.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bowser_Jr.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Bowser_Jr._(SSBM_AT)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Chomp-Riding_Dayzee",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Iggy_Koopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/King_Bob-omb",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Larry_Koopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Lavora",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Morton_Koopa_Jr.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Roy_Koopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Shadow_Mario",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/resource/Wendy_O._Koopa",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/property/status": {
+            "label": "status",
+            "pred_pos_tag": "NN",
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "Alive",
+                    "resource_info": [
+                        "Alive"
+                    ],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/Bowser",
+        "gender": "Male",
+        "name": "\u5927\u9b54\u738b\u30af\u30c3\u30d1",
+        "types": "http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/ontology/Agent|http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/ontology/FictionalCharacter|http://dbkwik.webdatacommons.org/Fantendo_-_Nintendo_Fanon_Wik/ontology/Person",
+        "types_sents": [
+            "a fictional character",
+            "a person"
+        ]
+    }
+}

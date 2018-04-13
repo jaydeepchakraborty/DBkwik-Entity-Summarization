@@ -1,0 +1,2581 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Autopedi/property/before": {
+            "label": "before",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Lotus",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/fastTeam": {
+            "label": "Fast Team",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1977_Argentine_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1981_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_United_States_Grand_Prix_West",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Dallas_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1985_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1993_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1997_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2002_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2004_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2004_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Turkish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Bahrain_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Chinese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/firstTeam": {
+            "label": "First Team",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1968_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1968_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1968_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1974_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1976_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1977_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1977_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1981_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1982_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_United_States_Grand_Prix_West",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Dutch_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1985_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1985_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1986_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1986_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1986_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1993_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1993_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2002_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2004_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Turkish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Chinese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2012_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/poleTeam": {
+            "label": "Pole team",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1974_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1976_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1976_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1977_Argentine_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1977_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Dutch_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Argentine_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2004_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Turkish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Chinese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Chinese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/principal": {
+            "label": "Principal",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Martin_Whitmarsh",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/recordTeam": {
+            "label": "Record team",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Aut\u00f3dromo_Internacional_Nelson_Piquet_(Bras\u00edlia)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Fair_Park",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Hockenheimring",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/secondTeam": {
+            "label": "Second team",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1968_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1968_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1968_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1969_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1970_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1970_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_Argentine_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1974_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1977_Swedish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1981_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1981_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1982_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1982_Caesars_Palace_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_United_States_Grand_Prix_West",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Dutch_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1986_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1986_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1988_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1993_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1993_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1994_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1995_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1996_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Argentine_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2004_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Bahrain_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Chinese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_European_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/team(s)": {
+            "label": "Team(s)",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Andrea_de_Adamich",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Bruno_Giacomelli",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Dan_Gurney",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/David_Coulthard",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/David_Hobbs",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Derek_Bell",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Emerson_Fittipaldi",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Gerhard_Berger",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Jochen_Mass",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/Keke_Rosberg",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/thirdTeam": {
+            "label": "Third team",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1969_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1969_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1969_Race_of_Champions",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1969_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1970_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1971_Questor_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1972_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1981_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1982_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1982_Swiss_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_Detroit_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1983_Dutch_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1984_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1985_Canadian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1985_South_African_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1986_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1989_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1991_Mexican_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_Hungarian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1992_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1993_Italian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1994_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1994_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1994_Portuguese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1994_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1997_German_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1998_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Austrian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/1999_Monaco_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2000_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2001_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2002_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2002_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2002_United_States_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Australian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2003_Japanese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2004_Chinese_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2005_Turkish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_Bahrain_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2006_San_Marino_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Brazilian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_British_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_French_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Spanish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2007_Turkish_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Belgian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Malaysian_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/2008_Singapore_Grand_Prix",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Autopedi/property/title": {
+            "label": "Title",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Autopedi/resource/List_of_Formula_One_World_Constructors'_Champions",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/McLaren",
+        "gender": "",
+        "name": "Team McLaren",
+        "types": "http://dbkwik.webdatacommons.org/Autopedi/ontology/Agent|http://dbkwik.webdatacommons.org/Autopedi/ontology/FormulaOneTeam|http://dbkwik.webdatacommons.org/Autopedi/ontology/Organisation|http://dbkwik.webdatacommons.org/Autopedi/ontology/SportsTeam",
+        "types_sents": [
+            "a formula 1 team",
+            "an organisation",
+            "a sports team"
+        ]
+    }
+}

@@ -1,0 +1,1802 @@
+{
+    "head": {
+        "vars": [
+            "p",
+            "p_label",
+            "o",
+            "prop_final_rank",
+            "obj_rank",
+            "rank",
+            "reverse"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Abra-Catastrophe!_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.164363281946089"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Billionfold_Inc."
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.25952808622788515"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Butch_Hartman"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "3.4466917741289165"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/creator"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "creator",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Butch_Hartman"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "3.4466917741289165"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/executiveProducer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "executive producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Carlos_Alazraqui"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.43734522190117564"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Channel_Chasers_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2284566717974415"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Crimson_Chin_Webtoons"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Daran_Norris"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.45214138937892256"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Fairy_Idol_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18235714617353876"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Faith_Abrahams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19559889944550649"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Frankie_Muniz"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1930566321629112"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Fred_Seibert"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3212352880247905"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/executiveProducer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "executive producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Frederator_Studios"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3129591704676147"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Gary_LeRoi_Gray"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.21114863169567677"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/George_A._Goodchild"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "2.496359644133636"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Grey_DeLisle-Griffin"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5110381178789437"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Ibrahim_Haneef_Muhammad"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19326335818682042"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jim_Ward"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.36941491601759446"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jimmy_Timmy_Power_Hour_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.22673494695120977"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jimmy_Timmy_Power_Hour_2_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.21495804258949225"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Jimmy_Timmy_Power_Hour_3_(DVD)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Live-Action_Movies"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Mary_Kay_Bergman"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nelvana"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/developer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "developer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._1"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._2"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._3"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nick_Picks_Vol._4"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nickelodeon"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.29908564147008226"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/developer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "developer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons:_Attack_of_the_Toybots"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15925764729225664"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons:_Battle_for_Volcano_Island"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons:_Freeze_Frame_Frenzy"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17916684924921972"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Nicktoons_Nitro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Scary_GodParents_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23792669409557055"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/School's_Out!:_The_Musical_(DVD_and_VHS)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19492777539917208"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Superhero_Spectacle"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.31048542254633976"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Susanne_Blakeslee"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3535878400132846"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Tara_Strong"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5118110740972698"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_1)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17044019609526484"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_10)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1576478806926391"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_2)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16632901977165412"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_3)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1657707248067754"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_4)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16661923309852034"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_5)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16662105932773963"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_6)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16580475346892132"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_7)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16706220468252445"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_8)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16512165182985739"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/The_Fairly_OddParents!_(season_9)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17095387655473848"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Timmy's_Top_Wishes"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2444901104001658"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Tom_Kenny"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23511628761859177"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:480i"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/pictureFormat"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "picture format",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:720p"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/pictureFormat"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "picture format",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:Animated_television_series"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/format"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "format",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:HDTV"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/pictureFormat"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "picture format",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Wikipedia:SDTV"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1827814321757048"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/pictureFormat"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "picture format",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.nick.com/shows/fairly-oddparents"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/website"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "website",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "\"The Fairly OddParents!\"",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/endtheme"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "endtheme",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "\"The Fairly OddParents!\" by Butch Hartman and Ron Jones",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/opentheme"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "opentheme",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "type": "literal",
+                    "value": "10"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/numSeasons"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "num seasons",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "type": "literal",
+                    "value": "131"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/numEpisodes"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "num episodes",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/datatype/second",
+                    "type": "literal",
+                    "value": "1380.0"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/runtime"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "runtime",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "ATV Home",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/firstAired"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "first aired",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Animation, Comedy, Slapstick, Fantasy, Epic",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/genres"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "genres",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "List of The Fairly OddParents! Episodes",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/listEpisodes"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "list episodes",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "MTV Networks",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/distributor"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "distributor",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Nickelodeon",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/firstAired"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "first aired",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Returning series",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/status"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "status",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Scott Fellows",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/executiveProducer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "executive producer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "The Fairly OddParents!",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/showName"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "show name",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "The Fairly OddParents! series title card",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/caption"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "caption",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "YTV",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/firstAired"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "first aired",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            }
+        ]
+    }
+}

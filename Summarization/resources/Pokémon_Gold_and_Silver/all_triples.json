@@ -1,0 +1,2272 @@
+{
+    "head": {
+        "vars": [
+            "p",
+            "p_label",
+            "o",
+            "prop_final_rank",
+            "obj_rank",
+            "rank",
+            "reverse"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Aipom"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Ampharos"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Ariados"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Azumarill"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18412408563759886"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Bayleef"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23030922585937497"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Bellossom"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18025678982313684"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Cartridge"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "7.909683007994038"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/media"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "media",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chikorita"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chinchou"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Cleffa"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Corsola"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Crobat"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17989584642361112"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Cyndaquil"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Delibird"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Dunsparce"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/ESRB:_E"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "4.034156994054059"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/ratings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "ratings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Entei"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Espeon"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Feraligatr"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19978402166748047"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Flaaffy"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23030922585937497"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Forretress"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1934846953938802"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Furret"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Game_Boy_Color"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "1.4076433455567188"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/platforms"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "platforms",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Game_Freak"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.43837577759819524"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/developer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "developer",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Girafarig"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Gligar"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Granbull"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Heracross"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Ho-Oh"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Hoothoot"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Hoppip"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17989584642361112"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Igglybuff"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17376897621917725"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Jumpluff"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17989584642361112"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Lanturn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Ledian"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Ledyba"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Lugia"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Magcargo"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.21911669104874998"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Mareep"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Marill"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.24124287132809485"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Meganium"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Misdreavus"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Multiplayer"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "21.059385891682993"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/modes"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "modes",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Murkrow"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Natu"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Nintendo"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "12.282703490354471"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "publisher",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Noctowl"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Octillery"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20478792502170137"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Pichu"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17241673560142518"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Piloswine"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17982841621874998"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Pineco"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20478792502170137"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Politoed"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Porygon2"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23030922585937497"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Quagsire"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Quilava"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23030922585937497"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Qwilfish"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Raikou"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Role-playing_game"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "2.7953585651288657"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/genre"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "genre",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Scizor"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Sentret"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Single-player"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "69.94309071166143"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/modes"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "modes",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Skiploom"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.21114782558333334"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Slowking"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Slugma"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Sneasel"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Snubbull"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Spinarak"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Steelix"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1755"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Sudowoodo"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Suicune"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Sunflora"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Sunkern"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Swinub"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17547359702256943"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Teddiursa"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Togepi"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1765605357123481"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Togetic"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18751502150472005"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Totodile"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19978402166748047"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Typhlosion"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18909599596874999"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Umbreon"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Unown"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Ursaring"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1904586519012451"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Wobbuffet"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Wooper"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Xatu"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.180718529355"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Yanma"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/appearance"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "appearance",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+                    "type": "literal",
+                    "value": "--04-06"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/released"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "released",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+                    "type": "literal",
+                    "value": "--10-15"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/released"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "released",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+                    "type": "literal",
+                    "value": "--10-16"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/released"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "released",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+                    "type": "literal",
+                    "value": "--11-21"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/released"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "released",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Pok\u00e9mon Gold and Silver",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/title"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "title",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            }
+        ]
+    }
+}

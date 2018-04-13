@@ -1,0 +1,3776 @@
+{
+    "head": {
+        "vars": [
+            "p",
+            "p_label",
+            "o",
+            "prop_final_rank",
+            "obj_rank",
+            "rank",
+            "reverse"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adam_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "1.3484191834193582"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adam_Williams.Jr"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17101661465277013"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adrian_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16416666666666666"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adrian_Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Alex_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Alex_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Annabelle_Brown"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1682142857142857"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/April_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2403769139466727"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/BRENDAN.EXE"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Bart_Ivanov"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20739102218837305"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Beatrice_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Betty_Jo_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.33842352553745736"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/grandparents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "grandparents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Betty_Jo_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.33842352553745736"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Big_Bob"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1583936800626739"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Big_Smoke"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Bob_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16356473891558515"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan's_Minions"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18662552313529357"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan_Townsend"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.7694042621433238"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan_Townsend_(2nd_Dimension)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16861660001960632"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan_Townsend_(Cyborg)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Cadence_Brown"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Callum_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1743521482751149"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Calvin_Fort"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1688885697426914"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Candace_Flynn_(Clone)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17296066094621507"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Cantron_2000"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17066918180367127"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Chris_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.30094231963981005"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Clyde_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.369042551148924"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/grandparents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "grandparents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Clyde_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.369042551148924"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Danville"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "1.4073602764258712"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/hometown"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "hometown",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Debby_Simon"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16215144989158875"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Decepticons"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16476838027815072"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/affiliations"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "affiliations",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dennis_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15916906955762622"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dennis_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15916906955762622"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dennis_the_Rabbit"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Diego_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1747593676406508"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Django_Brown"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.32343601642269304"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Donna_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1578792534722222"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dotty_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20596700604752438"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dotty_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20596700604752438"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ducky_Momo"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1659375"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dylan_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23133121404055354"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb's_cousin"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb's_cousin"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "1.2845008307285772"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/stepsiblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "stepsiblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "1.2845008307285772"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/stepsiblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "stepsiblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Finn_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15529083066787952"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Fireside_Girls"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3843981736236908"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "profession",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Flynn-Fletcher_Family"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2242695693369691"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/affiliations"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "affiliations",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Fred"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2300870264916059"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Fred"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2300870264916059"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/parents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Heinz_Jr."
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Isabella_Garcia-Shapiro_(2nd_Dimension)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19693091477767943"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/major"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "major",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Isabella_Garcia_Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "1.4793822172645203"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Isabelle_Garcia-Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ismael_Garcia_Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ismael_Garcia_Shapiro_(2nd_Dimension)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15836952397779336"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/major"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "major",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ivan_Ivanov"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2479673902663227"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ivan_Ivanov"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2479673902663227"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/loveinterests"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "loveinterests",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ivan_Ivanov"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2479673902663227"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/loveinterests"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "loveinterests",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jack_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15611373097231096"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jane_Knight"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16504996445959075"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jenny_Bells"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jenny_Brown"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2970236493514665"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jeremy_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4574160883389141"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jeremy_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4574160883389141"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/loveinterests"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "loveinterests",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jeremy_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4574160883389141"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/loveinterests"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "loveinterests",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jeremy_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4574160883389141"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/spouses"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "spouses",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jessebel"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15898378506979455"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Jessica_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/stepsiblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "stepsiblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Joey_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1726233184878642"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/parents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lawrence_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5321934590946246"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lawrence_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5321934590946246"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/stepparents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "stepparents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lexi_Caxton"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Liam_Doofenshmirtz"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1666093913879874"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lily_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lily_Garcia-Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23901988377599565"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Linda_Flynn-Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.6710036677808894"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Linda_Flynn-Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.6710036677808894"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/parents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lois_Ivanova"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20916435149455825"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lola_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.26548360205931804"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Lorraine"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18664321936449285"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Mandy_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4564283047741765"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Marie_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18693402006775706"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Mark_Brown"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4100252833191498"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Meg_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.269856315179998"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Megatron"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17433693015873997"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Miba"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/loveinterest"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "loveinterest",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Michael_Jackson_(Robot)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Michael_Watts"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Mick_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16356473891558515"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Milly"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2352932055275151"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Milly_2.0"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Mishti_Patel"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.156375"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Mr._Miggins"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/row1Info"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Row 1 info",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Nana_Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17541084983878497"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Nick_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23832573425967735"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Optimus_Prime"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17440029141857522"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Parker_Flynn_(2nd_Dimension)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/major"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "major",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Parker_Flynn_(2nd_Dimension)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/siblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "siblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Perry_the_Platypus"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5876510629707337"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/pets"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "pets",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Perseus_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15883262629061645"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Phineas_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "2.1074992972219375"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/siblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "siblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Phineas_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "2.1074992972219375"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/siblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "siblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Phinetron_2000"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17009715137697348"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Phyllian_the_Platypus"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Pinkie_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1683215745652614"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/siblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "siblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ricky_Fletcher"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16015766698029008"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/stepsiblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "stepsiblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/STACY.EXE"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1598076923076923"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Sarah_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/family"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "family",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Schweizer"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16476838027815072"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Stacy_Hirano"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.36650850754346687"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Stan_Ivanov"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20769904180516952"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Starscream"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18396884129916447"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Suzy_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3749387183571381"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Suzy_Johnson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3749387183571381"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Thaddeus_Williams"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.40024971089954353"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Thomas_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2287889629664184"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Thomas_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2287889629664184"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/parents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Tiana_Webber"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23751332890883725"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Tina_Samson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Trixie_%22Lizzyboots%22_Gweeni"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1794193086533205"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Vanessa_Doofenshmirtz"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3453168490251737"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "friends",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Vaughn_Garcia_Shapiro"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17114160371008655"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Willow_Flynn"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16476838027815072"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Xavier"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2839143365588589"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Xavier"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2839143365588589"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/parents"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parents",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/You_Can_Find_It_on_TV"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/band"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "band",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Zoey_Greenhouse"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/siblings"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "siblings",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/w:c:phineasandferb:Ashley_Tisdale"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19402445538531934"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/voice"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "voice",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://family-guy-fanverse.wikia.com/wiki/Stewie_Griffin"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://simpsonswiki.com/wiki/Bart_Simpson"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nemesis",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "type": "literal",
+                    "value": "15"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/age"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "age",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "1999-07-11"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/born"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "born",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "type": "literal",
+                    "value": "5"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/height"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "height",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Amanda",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "children",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "American",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nationality"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "nationality",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Brendan's Minion",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "profession",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Bucky",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/pets"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "pets",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Har D Har Toy Store employee",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "profession",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Heavenboy",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/band"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "band",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Jeremy Johnson",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/spouses"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "spouses",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Other Relatives",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/title"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "title",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Phineas and Ferb episode \"Rollercoaster\"",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/first"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "first",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Singer",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/pband"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "pband",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Slushy Burger employee",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "profession",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Starscream's slave",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "profession",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Student",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "profession",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Teen",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/color"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "color",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Vehicles",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/title"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "title",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "White Fugitive",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "other",
+                    "xml:lang": "en"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/affiliations": {
+            "label": "affiliations",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chatty",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/bestFriends": {
+            "label": "best friends",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Carl_Wheezer",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/enemies": {
+            "label": "enemies",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Anti-Cosmo",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Anti-Fairies",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Anti-Fairies",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Anti-Fairy_Council_(Live_Action)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Anti-Sparky",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Anti-Wanda",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Bender's_Dog",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Big_Brain",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Boo_Boo_the_Funny_Gigglepie",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chad",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chatty",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chatty",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chloe_Carmichael",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/friends": {
+            "label": "friends",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/A.J.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/A.J.",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Adam_West",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Billy_Blanks",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Bippy_the_Monkey",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Brad_Wurst",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Carly",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Catman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chatty",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chester_McBadbat",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chester_McBadbat",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chip_Skylark",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chloe_Carmichael",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chloe_Carmichael",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/loveinterests": {
+            "label": "loveinterests",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Carly",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/others": {
+            "label": "others",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Aunt_Gertrude",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Aunt_Gertrude",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/residence": {
+            "label": "residence",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/California",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/spouses": {
+            "label": "spouses",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Chloe_Carmichael",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/visitors": {
+            "label": "visitors",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Adolescent_Genetically_Altered_Karate_Cows",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Blackbird_and_Sparrow",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Carpet_Critters",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/voicedBy": {
+            "label": "voiced by",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/resource/Alec_Baldwin",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": null,
+        "gender": "Male",
+        "name": "Timothy Tiberius Turner",
+        "types": "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/ontology/Agent|http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/ontology/FictionalCharacter|http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/ontology/Person",
+        "types_sents": [
+            "a fictional character",
+            "a person"
+        ]
+    }
+}

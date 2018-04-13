@@ -1,0 +1,202 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/birthPlace": {
+            "label": "birth place",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Abbey_Lincoln",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Abbie_Hoffman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/cctld": {
+            "label": "cctld",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/.edu",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/.gov",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/.mil",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/.us",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/country": {
+            "label": "country",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/1000_Ways_to_Die",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/A_Nightmare_on_Elm_Street_(franchise)",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Animorphs",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/deathPlace": {
+            "label": "death place",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Abbey_Lincoln",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Abbie_Hoffman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/demonym": {
+            "label": "demonym",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Americans",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/foundation": {
+            "label": "foundation",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/20th_Television",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/leaderName": {
+            "label": "leader name",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Barack_Obama",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/nationality": {
+            "label": "nationality",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Abbie_Hoffman",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                },
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Adrian_Pennino",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/sovereigntyType": {
+            "label": "sovereignty type",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/American_Revolution",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "false"
+                }
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/property/subdivisionName": {
+            "label": "subdivision name",
+            "pred_pos_tag": null,
+            "resources": [
+                {
+                    "rank": null,
+                    "resource": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/resource/Basin_City,_Washington",
+                    "resource_info": [],
+                    "rev_resource_info": [],
+                    "reverse": "true"
+                }
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": "http://dbpedia.org/resource/United_States",
+        "gender": "",
+        "name": "United States",
+        "types": "http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Country|http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Location|http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/Place|http://dbkwik.webdatacommons.org/Ultimate_Pop_Culture_Wik/ontology/PopulatedPlace",
+        "types_sents": [
+            "a country",
+            "a location",
+            "a place",
+            "a populated place"
+        ]
+    }
+}
