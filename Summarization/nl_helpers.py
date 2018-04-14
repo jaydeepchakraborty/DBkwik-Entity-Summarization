@@ -3,7 +3,7 @@ import nltk, inflect, re, os
 import operator
 import requests
 
-EC2_URI = 'http://ec2-18-219-239-105.us-east-2.compute.amazonaws.com:3030/dbkwik/query'
+EC2_URI = 'http://ec2-52-15-230-2.us-east-2.compute.amazonaws.com:3030/dbkwik/query'
 p = inflect.engine()
 verb_const = ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'] #verb
 
@@ -77,18 +77,18 @@ def get_resource_name(URI):
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
-
-    # print(results)
+    name = None
     
-    output = {}
     for result in results["results"]["bindings"]:
         if 'name' in result:
-            return result['name']['value']
+            name = result['name']['value']
         elif 'dbr' in result: # Fallback to getting label from DBpedia using Same As
-            return get_resource_name_from_dbpedia(result['dbr']['value'])                   
+            name = get_resource_name_from_dbpedia(result['dbr']['value'])                                   
+        break
     
-
-    return None
+    if name == None:
+        name = replace_underscore_with_space(URI.split('/')[-1].replace('Wikipedia:', ''))
+    return name
 
 def get_ontology_label(ontology):
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
