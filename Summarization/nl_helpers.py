@@ -3,7 +3,9 @@ import nltk, inflect, re, os
 import operator
 import requests
 
-EC2_URI = 'http://ec2-18-218-10-185.us-east-2.compute.amazonaws.com:3030/dbkwik/query'
+EC2_URI = 'http://ec2-18-219-239-105.us-east-2.compute.amazonaws.com:3030/dbkwik/query'
+p = inflect.engine()
+verb_const = ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'] #verb
 
 def test_mtdh():
     return "It is working"
@@ -60,12 +62,13 @@ def get_resource_name(URI):
     ontology_namespace = "http://dbkwik.webdatacommons.org/" + wiki + "/ontology"
     property_namespace = "http://dbkwik.webdatacommons.org/" + wiki + "/property"
     
-    sparql = SPARQLWrapper("http://dbkwik.webdatacommons.org/sparql")
+    sparql = SPARQLWrapper(EC2_URI)
     query = ("""SELECT ?name ?dbr WHERE {        
         # Get English label of URI
         OPTIONAL { <""" + URI + """> <""" + property_namespace + """/name> ?name . FILTER(lang(?name)='en') . }
         OPTIONAL { <""" + URI + """> <http://www.w3.org/2004/02/skos/core#prefLabel> ?name . FILTER(lang(?name)='en') . }       
         OPTIONAL { <""" + URI + """> <http://www.w3.org/2000/01/rdf-schema#label> ?name . FILTER(lang(?name)='en') . }        
+        OPTIONAL { <""" + URI + """> <http://www.w3.org/2004/02/skos/core#altLabel> ?name . FILTER(lang(?name)='en') . }
         OPTIONAL { <""" + URI + """> <http://www.w3.org/2002/07/owl#sameAs> ?dbr . }
     }
     """)
@@ -128,10 +131,11 @@ def get_basic_info(URI):
     ontology_namespace = "http://dbkwik.webdatacommons.org/" + wiki + "/ontology"
     property_namespace = "http://dbkwik.webdatacommons.org/" + wiki + "/property"
     
-    sparql = SPARQLWrapper("http://dbkwik.webdatacommons.org/sparql")
+    # sparql = SPARQLWrapper("http://dbkwik.webdatacommons.org/sparql")
+    sparql = SPARQLWrapper(EC2_URI)  
     query = ("""SELECT (group_concat(?type;separator='|') as ?types) ?name ?gender ?dbr WHERE {        
         # Get Types of URI
-        <""" + URI + """> rdf:type ?type .
+        <""" + URI + """> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type .
         FILTER(contains(str(?type), '""" + ontology_namespace + """')) .
         
         # Get English label of URI
@@ -143,8 +147,8 @@ def get_basic_info(URI):
         OPTIONAL { <""" + URI + """> <""" + property_namespace + """/gender> ?gender . }
         
         # Try to get corresponding DBpedia Resource
-        OPTIONAL { <""" + URI + """> owl:sameAs ?dbr . }
-    }
+        OPTIONAL { <""" + URI + """> <http://www.w3.org/2002/07/owl#sameAs> ?dbr . }
+    } group by ?name ?gender ?dbr
     """)
     # print(query)
     
@@ -153,6 +157,9 @@ def get_basic_info(URI):
     results = sparql.query().convert()
     
     subj_basic_info = {}
+
+    # print(results)
+
     for result in results["results"]["bindings"]:
         subj_basic_info = {
             'types': result['types']['value'],            
@@ -222,26 +229,27 @@ def get_all_triples(URI):
 
 
 def get_pred_pos_tag(subj_nm, pred_nm, objs):
-
+    # print(objs)
     pred_pos = ''
     pred_pos_dict = {}
-    for obj_resource in objs["resource_info"]:
-        pos_tag = (nltk.pos_tag([subj_nm  , pred_nm , obj_resource])[1])[1]
+    for index in range(len(objs)):
+        # print(objs[index])
+        pos_tag = (nltk.pos_tag([subj_nm  , pred_nm , objs[index]])[1])[1]
         if pred_pos_dict.get(pos_tag) != None:
             pred_pos_dict[pos_tag] = pred_pos_dict.get(pos_tag) + 1
         else:
             pred_pos_dict[pos_tag] = 1
 
-
-    for obj_resource in objs["rev_resource_info"]:
-        pos_tag = (nltk.pos_tag([subj_nm  , pred_nm , obj_resource])[1])[1]
-        if pred_pos_dict.get(pos_tag) != None:
-            pred_pos_dict[pos_tag] = pred_pos_dict.get(pos_tag) + 1
-        else:
-            pred_pos_dict[pos_tag] = 1
+    # for obj_resource in objs["rev_resource_info"]:
+    #     pos_tag = (nltk.pos_tag([subj_nm  , pred_nm , obj_resource])[1])[1]
+    #     if pred_pos_dict.get(pos_tag) != None:
+    #         pred_pos_dict[pos_tag] = pred_pos_dict.get(pos_tag) + 1
+    #     else:
+    #         pred_pos_dict[pos_tag] = 1
 
     sorted(pred_pos_dict.items(), key=operator.itemgetter(1))
 
+    # print(pred_pos_dict)
     # print(list(pred_pos_dict.keys()))
     frst_key = list(pred_pos_dict.keys())[0] if list(pred_pos_dict.keys()) else None
     pred_pos = frst_key
@@ -254,7 +262,8 @@ def get_resource_info(resource_uri_litval, resource_rev_ind):
     r_resources = []
 
     if resource_uri_litval.startswith('http://'): # URI
-            resource_name = get_resource_name(resource_uri_litval)
+            # resource_name = get_resource_name(resource_uri_litval)
+            resources = [get_resource_name(resource_uri_litval)]
     else: # Literal
         resource_name = None
         if resource_uri_litval[0] == '*': # Possibly bullet list which was not properly parsed by DBkwik
@@ -263,55 +272,68 @@ def get_resource_info(resource_uri_litval, resource_rev_ind):
                 _resources = _resources[1:]
                 for index2 in range(len(_resources)):
                     _resources[index2] = re.sub(r'[^a-zA-Z0-9 \n\.]', '', _resources[index2]).replace('{', '').replace('}', '').strip()
-                if resource_rev_ind == 'true':
-                    r_resources += _resources
-                else:
-                    resources += _resources
-        else:
-            resource_name = resource_uri_litval.replace('{', '').replace('}', '') # Handling parsing error where entity might have {}
-    
-        if resource_name != None: # Continue to next element if resource name was not properly set
-            if resource_rev_ind == 'true':
-                if(len(r_resources) <= 3):
-                    r_resources.append(resource_name)
-            else:
-                if(len(resources) <= 3):
-                    resources.append(resource_name)
 
-    return resources, r_resources
+                resources = _resources
+                # if resource_rev_ind == 'true':
+                #     r_resources += _resources
+                # else:
+                #     resources += _resources
+        else:
+            # resource_name = resource_uri_litval.replace('{', '').replace('}', '') # Handling parsing error where entity might have {}
+            resources = [resource_uri_litval.replace('{', '').replace('}', '')] # Handling parsing error where entity might have {}]
+
+        # if resource_name != None: # Continue to next element if resource name was not properly set
+        #     resources = [resource_name]
+        #     if resource_rev_ind == 'true':
+        #         if(len(r_resources) <= 3):
+        #             r_resources.append(resource_name)
+        #     else:
+        #         if(len(resources) <= 3):
+        #             resources.append(resource_name)
+
+    # return resources, r_resources
+    return resources
 
 
 def get_top_k_triples(subj_nm, all_triples , k):
 
     output = {}
     predicates = []
-    for all_triple in all_triples["results"]["bindings"]:
+    for triple in all_triples["results"]["bindings"]:
         # print(all_triple)
         # break
-        predicate = all_triple['p']['value']
+        predicate = triple['p']['value']
 
         if predicate not in predicates:
             predicates.append(predicate)
             output[predicate] = {
                 'resources': [],
-                'label': all_triple['p_label']['value'],
-                'pred_pos_tag': ''
+                'r_resources': [],
+                'label': triple['p_label']['value']
+                # 'pred_pos_tag': get_pred_pos_tag(subj_nm, triple['p_label']['value'], obj)                
             }
+
+
+        # resource_info, r_resource_info = get_resource_info(triple['o']['value'], triple['reverse']['value'])
+        if triple['reverse']['value'] == 'true':
+            output[predicate]['r_resources'] += get_resource_info(triple['o']['value'], triple['reverse']['value'])
+        else:
+            output[predicate]['resources'] += get_resource_info(triple['o']['value'], triple['reverse']['value'])
+
+        # resource_info, r_resource_info = get_resource_info(triple['o']['value'], triple['reverse']['value'])
+
+
+        # obj = {
+        #     'resource': triple['o']['value'],
+        #     'rank': triple['rank']['value'] if 'rank' in triple else None,
+        #     'reverse': triple['reverse']['value'],
+        #     'resource_info':resource_info,
+        #     'rev_resource_info':r_resource_info
+        # }
+
         
-
-        resource_info, r_resource_info = get_resource_info(all_triple['o']['value'], all_triple['reverse']['value'])
-
-        obj = {
-            'resource': all_triple['o']['value'],
-            'rank': all_triple['rank']['value'] if 'rank' in all_triple else None,
-            'reverse': all_triple['reverse']['value'],
-            'resource_info':resource_info,
-            'rev_resource_info':r_resource_info
-        }
-
-        
-        output[predicate]['resources'].append(obj)
-        output[predicate]['pred_pos_tag'] = get_pred_pos_tag(subj_nm, all_triple['p_label']['value'], obj)
+        # output[predicate]['resources'].append(obj)
+        # output[predicate]['pred_pos_tag'] = get_pred_pos_tag(subj_nm, triple['p_label']['value'], obj)
             
         if len(predicates) == k:
             break
@@ -325,9 +347,40 @@ def get_pred_fillers(predicate_name):
     return request.text
 
 
+def generate_predicate_summary(pronoun, possessive_pronoun, predicate_name, pos_tag, resources):
+    summary = ''
+    # https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+    if pos_tag in verb_const: #verb
+        pred_with_fillers = get_pred_fillers(predicate_name)
+        summary += pronoun + ' ' + str(pred_with_fillers) + ' ' + combine_conjunctive_sentences(resources) + '. '
+    else:
+        if len(resources) == 1: 
+            if p.singular_noun(predicate_name) == False or p.singular_noun(predicate_name) == predicate_name: # If singular predicate or plural and singular forms are the same (eg: species)                 
+                summary += possessive_pronoun + ' ' + predicate_name + ' is ' + resources[0] + '. '
+            else:
+                summary += possessive_pronoun + ' ' + predicate_name + ' are ' + resources[0] + '. '
+        elif len(resources) > 1:
+            if p.singular_noun(predicate_name) == False: # Convert to plural form
+                predicate_name = p.plural(predicate_name)
+            summary += possessive_pronoun + ' ' + predicate_name + ' are ' + combine_conjunctive_sentences(resources) + '. '        
+    return summary
+
+def generate_reverse_predicate_summary(name, predicate_name, pos_tag, resources):
+    summary = ''
+    if pos_tag in verb_const: #verb
+        pred_with_fillers = get_pred_fillers(predicate_name)
+        # summary += pronoun + ' ' + str(pred_with_fillers) + ' ' + combine_conjunctive_sentences(resources) + '. '
+        summary += combine_conjunctive_sentences(resources) + ' ' + str(pred_with_fillers) + name + '. '
+    else:
+        resources = [get_possessive_form(resource) for resource in resources]
+        if p.singular_noun(predicate_name):
+            predicate_name = p.singular_noun(predicate_name)
+        summary += combine_conjunctive_sentences(resources) + ' ' + predicate_name + ' is ' + name + '. '
+
+    return summary
 
 def generate_summary(k_triples):
-    summary = ''
+    summary = ''    
 
     basic_info = k_triples['subj_basic_info']
     name = basic_info['name']
@@ -351,38 +404,45 @@ def generate_summary(k_triples):
 
 
     for predicate in k_triples['pred_info']:
-
-        p = get_inflect_engine()
+        predicate_object = k_triples['pred_info'][predicate]
 
         pred = k_triples['pred_info'][predicate]
         predicate_name = pred['label']
 
+        pos_tag = get_pred_pos_tag(name, predicate_name, predicate_object['resources'] + predicate_object['r_resources'])                
 
-        for index in range(len(pred['resources'])):
-            resource = pred['resources'][index] 
+        if len(predicate_object['resources']) > 0:
+            summary += generate_predicate_summary(pronoun, possessive_pronoun, predicate_name, pos_tag, predicate_object['resources'][0:3])            
 
-            resources = resource['resource_info']
-            r_resources = resource['rev_resource_info']
-            # https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
-            if pred['pred_pos_tag'] in ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']: #verb
-                pred_with_fillers = get_pred_fillers(predicate_name)
-                summary += pronoun + ' ' +str(pred_with_fillers) + ' ' +combine_conjunctive_sentences(resources) + '. '
-            else:
-                if len(resources) == 1:
-                    if p.singular_noun(predicate_name) == False or p.singular_noun(predicate_name) == predicate_name: 
-                    # If singular predicate or plural and singular forms are the same (eg: species)
-                        summary += possessive_pronoun + ' ' + predicate_name + ' is ' + resources[0] + '. '
-                    else:
-                        summary += possessive_pronoun + ' ' + predicate_name + ' are ' + resources[0] + '. '
-                elif len(resources) > 1:
-                    if p.singular_noun(predicate_name) == False: # Convert to plural form
-                        predicate_name = p.plural(predicate_name)
-                    summary += possessive_pronoun + ' ' + predicate_name + ' are ' + combine_conjunctive_sentences(resources) + '. '
+        if len(predicate_object['r_resources']) > 0:
+            summary += generate_reverse_predicate_summary(name, predicate_name, pos_tag, predicate_object['r_resources'][:3])            
 
-                if len(r_resources) > 0:
-                    r_resources = [get_possessive_form(resource) for resource in r_resources]
-                    if p.singular_noun(predicate_name):
-                        predicate_name = p.singular_noun(predicate_name)
-                    summary += combine_conjunctive_sentences(r_resources) + ' ' + predicate_name + ' is ' + name + '. '
+
+        # for index in range(len(pred['resources'])):
+        #     resource = pred['resources'][index] 
+
+        #     resources = resource['resource_info']
+        #     r_resources = resource['rev_resource_info']
+        #     # https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+        #     if pred['pred_pos_tag'] in ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']: #verb
+        #         pred_with_fillers = get_pred_fillers(predicate_name)
+        #         summary += pronoun + ' ' +str(pred_with_fillers) + ' ' +combine_conjunctive_sentences(resources) + '. '
+        #     else:
+        #         if len(resources) == 1:
+        #             if p.singular_noun(predicate_name) == False or p.singular_noun(predicate_name) == predicate_name: 
+        #             # If singular predicate or plural and singular forms are the same (eg: species)
+        #                 summary += possessive_pronoun + ' ' + predicate_name + ' is ' + resources[0] + '. '
+        #             else:
+        #                 summary += possessive_pronoun + ' ' + predicate_name + ' are ' + resources[0] + '. '
+        #         elif len(resources) > 1:
+        #             if p.singular_noun(predicate_name) == False: # Convert to plural form
+        #                 predicate_name = p.plural(predicate_name)
+        #             summary += possessive_pronoun + ' ' + predicate_name + ' are ' + combine_conjunctive_sentences(resources) + '. '
+
+        #         if len(r_resources) > 0:
+        #             r_resources = [get_possessive_form(resource) for resource in r_resources]
+        #             if p.singular_noun(predicate_name):
+        #                 predicate_name = p.singular_noun(predicate_name)
+        #             summary += combine_conjunctive_sentences(r_resources) + ' ' + predicate_name + ' is ' + name + '. '
 
     return summary

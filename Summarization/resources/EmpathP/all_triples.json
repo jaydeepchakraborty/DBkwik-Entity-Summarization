@@ -15,531 +15,6 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/A_Banshee_named_42"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.17219771842450562"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/A_Certain_Path"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.17656293917913796"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Alice"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.22748093307286843"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/author"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "author",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Anonymous"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.19717485763957263"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Apol"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.23541945798948644"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "associations",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Apol"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.23541945798948644"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "associations",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CUL/Examples_of_usage"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/1producers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "1producers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CYO_Style"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.2955228091781883"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "associations",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Calendar"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Christmas_Cracker_(2013)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.1613723656724156"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/track4singer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "track4singer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CircusP"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.40038516720503015"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "associations",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CircusP"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.40038516720503015"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "associations",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Clara/Examples_of_usage"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/4producers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "4producers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Closure"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.1641574492628497"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Eulogy_for_Abel"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.16196146600878414"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fables_of_Farewell"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.19951223598879705"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/illust"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "illust",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fables_of_Farewell"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.19951223598879705"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fairytale_Blue"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.18453168917913795"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fairytale_Blue"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.18453168917913795"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Knot_or_Not%3F"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.17661727894584706"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.32102507003503566"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "associations",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
                     "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P"
                 },
                 "obj_rank": {
@@ -556,30 +31,15 @@
                     "value": "composer",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.32102507003503566"
+                    "value": "0.8862559241706162"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/illustrator"
-                },
-                "p_label": {
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "illustrator",
-                    "xml:lang": "en"
+                    "value": "0.23566209647244138e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -590,21 +50,31 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Leaving_Donna"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nostraightanswer"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.20103339034901752"
+                    "value": "0.4530538161488483"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "page",
+                    "value": "associations",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23533959171530738e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -615,21 +85,31 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Leaving_Donna"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nostraightanswer"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.20103339034901752"
+                    "value": "0.4530538161488483"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "producer",
+                    "value": "associations",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23533959171530738e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -640,46 +120,66 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Leaving_Donna_(EP)"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CircusP"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.40038516720503015"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "producer",
+                    "value": "associations",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2202870977468817e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
-                    "value": "true"
+                    "value": "false"
                 }
             },
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Little_Allan's_Big_Polka"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CircusP"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.17505983915522463"
+                    "value": "0.40038516720503015"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "producer",
+                    "value": "associations",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.2202870977468817e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -706,6 +206,16 @@
                     "value": "associations",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20178114443602807e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -715,37 +225,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/NeapolitaN"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.1695596590909091"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nostraightanswer"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.4530538161488483"
+                    "value": "0.32102507003503566"
                 },
                 "p": {
                     "type": "uri",
@@ -756,21 +241,31 @@
                     "value": "associations",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19391280559971688e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
-                    "value": "false"
+                    "value": "true"
                 }
             },
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nostraightanswer"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CYO_Style"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.4530538161488483"
+                    "value": "0.2955228091781883"
                 },
                 "p": {
                     "type": "uri",
@@ -781,55 +276,15 @@
                     "value": "associations",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/ORANGE_LINE"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.1897163351806031"
+                    "value": "0.48973143759873616"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/One_Thousand_Paper_Snowflakes_(single)"
-                },
-                "obj_rank": {
+                "rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.19796782525129403"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
+                    "value": "0.18430567013942584e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -840,21 +295,31 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Parallel_Lines"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Vio\u2606"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.22046554487179487"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/composer"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "producer",
+                    "value": "composer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.8862559241706162"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17654748794851785e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -865,21 +330,31 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Persephone"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.32102507003503566"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/illustrator"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "producer",
+                    "value": "illustrator",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3522906793048973"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16796598045926261e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -890,37 +365,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Persephone_(single)"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Leaving_Donna"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.1873610159176975"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Pinwheel"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15624758518060308"
+                    "value": "0.20103339034901752"
                 },
                 "p": {
                     "type": "uri",
@@ -930,6 +380,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16721893906153568e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -940,12 +400,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Poe"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Three_Hearts"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15871934021778375"
+                    "value": "0.19779107116940015"
                 },
                 "p": {
                     "type": "uri",
@@ -955,6 +415,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16496952158726474e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -965,12 +435,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Rain_+_Virus"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Anonymous"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.16049387350011443"
+                    "value": "0.19717485763957263"
                 },
                 "p": {
                     "type": "uri",
@@ -980,6 +450,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1645406276809452e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1006,6 +486,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16317514617677503e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1015,21 +505,66 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Salutations_&_Sayonara"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/ORANGE_LINE"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.19411443253419036"
+                    "value": "0.1897163351806031"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "page",
+                    "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15931397591904353e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Apol"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.23541945798948644"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "associations",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15899078426481772e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1040,12 +575,47 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Second_Star"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Apol"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15705761985493796"
+                    "value": "0.23541945798948644"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "associations",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.48973143759873616"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15899078426481772e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fairytale_Blue"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18453168917913795"
                 },
                 "p": {
                     "type": "uri",
@@ -1055,6 +625,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15564179944077097e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1081,6 +661,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15295624969310703e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1090,62 +680,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Target_(single)"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Knot_or_Not%3F"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.1873610159176975"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Three_Hearts"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.19779107116940015"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "page",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Three_Hearts"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.19779107116940015"
+                    "value": "0.17661727894584706"
                 },
                 "p": {
                     "type": "uri",
@@ -1156,55 +696,15 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Three_Hearts_Series"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.9941486249268578"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Vio\u2606"
-                },
-                "obj_rank": {
+                "rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.22046554487179487"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/composer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "composer",
-                    "xml:lang": "en"
+                    "value": "0.14997346986407284e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1231,6 +731,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14951083714439553e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1240,12 +750,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/White_Knight"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Little_Allan's_Big_Polka"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15796875"
+                    "value": "0.17505983915522463"
                 },
                 "p": {
                     "type": "uri",
@@ -1255,6 +765,541 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14884898948513392e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Leaving_Donna"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20103339034901752"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1487313870237048e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fables_of_Farewell"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19951223598879705"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14789713371228522e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/\u5e7c\u306a\u3058\u307f\u306b\u3055\u3088\u306a\u3089_(Osananajimi_ni_Sayonara)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17325323881573199"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14754085502365016e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/One_Thousand_Paper_Snowflakes_(single)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19796782525129403"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.147046752105586e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Three_Hearts"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19779107116940015"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14694921028657118e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/A_Banshee_named_42"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17219771842450562"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14677469172267404e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fables_of_Farewell"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19951223598879705"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/illust"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "illust",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5511995318899942"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14648904651393013e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Salutations_&_Sayonara"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19411443253419036"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14491004613029695e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/NeapolitaN"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1695596590909091"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1448537440554307e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Persephone_(single)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1873610159176975"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14111294781807476e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Target_(single)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1873610159176975"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.14111294781807476e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Closure"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1641574492628497"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.140892727831309e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fairytale_Blue"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18453168917913795"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13950200462261728e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Eulogy_for_Abel"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16196146600878414"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13927200358009334e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Rain_+_Virus"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16049387350011443"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13818542437740974e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1281,6 +1326,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13818542437740974e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1290,7 +1345,182 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/YOHIOloid/Examples_of_usage"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Poe"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15871934021778375"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13686789692955953e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/White_Knight"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15796875"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13630938914004706e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Second_Star"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15705761985493796"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1356304463434064e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Pinwheel"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15624758518060308"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13502593331816404e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/A_Certain_Path"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17656293917913796"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "page",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5716793446459918"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1348993334654816e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Calendar"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
@@ -1299,12 +1529,162 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/1producers"
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "1producers",
+                    "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Leaving_Donna_(EP)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Parallel_Lines"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Persephone"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Three_Hearts_Series"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1331,372 +1711,20 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/\u5e7c\u306a\u3058\u307f\u306b\u3055\u3088\u306a\u3089_(Osananajimi_ni_Sayonara)"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.17325323881573199"
+                    "value": "0.9941486249268578"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producer",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/\u9ec4\u660f\u306e\u6d99_(Tasogare_no_Namida)"
-                },
-                "obj_rank": {
+                "rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "producers",
-                    "xml:lang": "en"
+                    "value": "0.13033472268391846e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
                     "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
-                    "type": "literal",
-                    "value": "--01-31"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
-                    "type": "literal",
-                    "value": "--03-08"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2011-10-25"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2012-06-07"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2013-10-07"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2014-08-26"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2014-11-30"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2014-12-24"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2015-03-11"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/datatype/second",
-                    "type": "literal",
-                    "value": "42.0"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/content"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "content",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "literal",
-                    "value": "Certain path album.jpg",
-                    "xml:lang": "en"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/image"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "image",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "literal",
-                    "value": "Channel: Nico Nico, YouTube, BandCamp, Crecrew, SoundCloud, piapro, Twitter",
-                    "xml:lang": "en"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/url"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "url",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
                 }
             },
             {
@@ -1718,6 +1746,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1745,6 +1783,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1770,6 +1818,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1797,6 +1855,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1822,6 +1890,16 @@
                     "type": "literal",
                     "value": "producer",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1849,57 +1927,15 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "literal",
-                    "value": "Gallery: DeviantART, pixiv",
-                    "xml:lang": "en"
+                    "value": "0.9941486249268578"
                 },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/url"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "url",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "literal",
-                    "value": "Leaving Donna Album Art.PNG",
-                    "xml:lang": "en"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/image"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "image",
-                    "xml:lang": "en"
+                    "value": "0.13033472268391846e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1927,6 +1963,124 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9941486249268578"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.13033472268391846e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/datatype/second",
+                    "type": "literal",
+                    "value": "42.0"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/content"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "content",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.8925750394944708"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.128418819607546e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Channel: Nico Nico, YouTube, BandCamp, Crecrew, SoundCloud, piapro, Twitter",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/url"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "url",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.8451816745655608"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12739106278276055e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Gallery: DeviantART, pixiv",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/url"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "url",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.8451816745655608"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12739106278276055e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1953,31 +2107,15 @@
                     "value": "debut",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "literal",
-                    "value": "One_thousand_paper_snowflakes_single.png",
-                    "xml:lang": "en"
+                    "value": "0.8056872037914692"
                 },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/image"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "image",
-                    "xml:lang": "en"
+                    "value": "0.12645673196131912e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -2005,6 +2143,518 @@
                     "value": "currently",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.7361769352290679"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12461003654514662e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Christmas_Cracker_(2013)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1613723656724156"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/track4singer"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "track4singer",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5254534815681685"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12345730975637048e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+                    "type": "literal",
+                    "value": "--01-31"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#gMonthDay",
+                    "type": "literal",
+                    "value": "--03-08"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2011-10-25"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2012-06-07"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2013-10-07"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2014-08-26"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2014-11-30"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2014-12-24"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2015-03-11"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/date"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4154818325434439"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1102109233133119e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/\u9ec4\u660f\u306e\u6d99_(Tasogare_no_Namida)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "producers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.29541864139020535"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.09948572441922325e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Certain path album.jpg",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/image"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "image",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.29541864139020535"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.09948572441922325e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Leaving Donna Album Art.PNG",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/image"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "image",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.29541864139020535"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.09948572441922325e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "One_thousand_paper_snowflakes_single.png",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/image"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "image",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.29541864139020535"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.09948572441922325e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -2031,10 +2681,160 @@
                     "value": "image",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.29541864139020535"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.09948572441922325e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
                     "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Alice"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.22748093307286843"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/author"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "author",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17377567140600317"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.09851713700299554e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CUL/Examples_of_usage"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/1producers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "1producers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.0315955766192733"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.026098303610265335e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/YOHIOloid/Examples_of_usage"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/1producers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "1producers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.0315955766192733"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.026098303610265335e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Clara/Examples_of_usage"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/4producers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "4producers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030015797788309637"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.025010969723562967e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
                 }
             }
         ]

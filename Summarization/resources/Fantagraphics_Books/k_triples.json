@@ -2,386 +2,109 @@
     "pred_info": {
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/country": {
             "label": "Country",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:United_States",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/distribution": {
-            "label": "distribution",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:W._W._Norton_&_Company",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/founded": {
             "label": "founded",
-            "pred_pos_tag": "VBD",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "1976",
-                    "resource_info": [
-                        "1976"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "1976"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/founder": {
             "label": "founder",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Gary_Groth",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Mike_Catron",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                null
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/headquarters": {
+            "label": "headquarters",
+            "r_resources": [],
+            "resources": [
+                "Seattle, Washington"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/id": {
+            "label": "id",
+            "r_resources": [],
+            "resources": [
+                "30",
+                "445",
+                "99"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/imprints": {
             "label": "imprints",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Eros_Comix",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Ignatz_Series",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/keypeople": {
             "label": "keypeople",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Eric_Reynolds",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Gary_Groth",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Wikipedia:Kim_Thompson",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                null,
+                null
             ]
         },
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/notableWorks": {
-            "label": "notable works",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publications": {
+            "label": "publications",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Gary_Groth",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Kim_Thompson",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub": {
-            "label": "pub",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Adult_comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Books, Comic books, magazines"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher": {
             "label": "Publisher",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Acme_Novelty_Library",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Amazing_Heroes",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/BLAB!",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Black_Hole_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Dennis_the_Menace_(U.S._comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Eightball_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Elizabeth_Bathory_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Good_Girls_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Hate_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/House_of_Raging_Women",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Journey:_The_Adventures_of_Wolverine_MacAlistaire",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Las_Mujeres_Perdidas",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Lloyd_Llewellyn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Love_and_Rockets_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mome_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Music_for_Mechanics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Naughty_Bits",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Neat_Stuff",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Palestine_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Palomar_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Safe_Area_Gora\u017ede",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Sam_and_Silo",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Tears_from_Heaven",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Biologic_Show",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Bojeffries_Saga",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Clouds_Above",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Complete_Carl_Barks_Disney_Library",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Complete_Crumb_Comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Pogostick",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Usagi_Yojimbo",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Walt_Disney's_Mickey_Mouse",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Zero_Zero_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Dennis the Menace (U.S. comics)",
+                "Acme Novelty Library",
+                "Amazing Heroes",
+                "BLAB!",
+                "Black Hole (comics)",
+                "Eightball (comics)",
+                "Elizabeth Bathory (comics)",
+                "Good Girls (comics)",
+                "Hate (comics)",
+                "House of Raging Women",
+                "Journey: The Adventures of Wolverine MacAlistaire",
+                "Las Mujeres Perdidas",
+                "Lloyd Llewellyn",
+                "Love and Rockets (comics)",
+                "Mome (comics)",
+                "Music for Mechanics",
+                "Naughty Bits",
+                "Neat Stuff",
+                "Palestine",
+                "Palomar (comics)",
+                "Safe Area Gora\u017ede",
+                "Sam and Silo",
+                "Tears from Heaven",
+                "The Biologic Show",
+                "The Bojeffries Saga",
+                "The Clouds Above",
+                "The Complete Carl Barks Disney Library",
+                "The Complete Crumb Comics",
+                "The Pogostick",
+                "Usagi Yojimbo",
+                "Walt Disney's Mickey Mouse",
+                "Zero Zero (comics)"
+            ],
+            "resources": []
         },
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/url": {
-            "label": "url",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/title": {
+            "label": "title",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://fantagraphics.com",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Eros Comix"
             ]
         }
     },

@@ -2,332 +2,100 @@
     "pred_info": {
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/capital": {
             "label": "capital",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Moscow",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/currency": {
             "label": "currency",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Russian_ruble",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/established": {
             "label": "established",
-            "pred_pos_tag": "VBD",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "--12-25",
-                    "resource_info": [
-                        "--12-25"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "--12-25"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/home": {
             "label": "home",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Eduard_Borodin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Eduard Borodin"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/leaderName": {
             "label": "leader name",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Dmitry_Medvedev",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Vladimir_Putin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/leaderTitle": {
             "label": "leader title",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:President",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Prime_Minister",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/nationalAnthem": {
             "label": "national anthem",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:National_Anthem_of_Russia",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/officialLanguages": {
             "label": "official languages",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Russian_language",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/pob": {
             "label": "pob",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Adam_Dimayev",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Alonso_Goralski",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Andre",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Andrei",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Anna_Faustin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Anton",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Boris",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Christov_Mahonvic",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Dima_Popov",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Galina_Bulgarin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Georgi",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Igor",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Ilyena_Faustin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Ivan_Bytchkov",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Jerkov",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Josef",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Lino_Friddell",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Marki_Ashvilli",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Maxim_Rashkovsky",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Mrs._Petrovic",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Natalia_Zverovna",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Sergey",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Timur",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Tommy_Francovic",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Unnamed_Russian_Goon",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Vanya",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Vladimir_Glebov",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Adam Dimayev",
+                "Alonso Goralski",
+                "Andre",
+                "Andrei",
+                "Anna Faustin",
+                "Anton",
+                "Boris",
+                "Christov Mahonvic",
+                "Dimitri Popov",
+                "Galina Bulgarin",
+                "Georgi",
+                "Igor",
+                "Ilyena Faustin",
+                "Ivan Bytchkov",
+                "Jerkov",
+                "Josef",
+                "Lino Friddell",
+                "Marki Ashvilli",
+                "Maxim Rashkovsky",
+                "Mrs. Petrovic",
+                "Natalia Zverovna",
+                "Sergey",
+                "Timur",
+                "Tommy Francovic",
+                "Unknown",
+                "Vanya",
+                "Vladimir Glebov"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/populationEstimate": {
             "label": "population estimate",
-            "pred_pos_tag": "NN",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "143030106",
-                    "resource_info": [
-                        "143030106"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "143030106"
             ]
         }
     },

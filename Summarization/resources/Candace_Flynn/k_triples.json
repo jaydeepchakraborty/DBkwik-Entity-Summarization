@@ -1,413 +1,92 @@
 {
     "pred_info": {
-        "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/affiliations": {
-            "label": "affiliations",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Decepticons",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Flynn-Fletcher_Family",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
-            ]
-        },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/children": {
             "label": "children",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Fred",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
-            ]
+            "r_resources": [
+                "Linda Flynn",
+                "Lawrence Fletcher"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/friends": {
             "label": "friends",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adrian_Shapiro",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Cadence_Brown",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Calvin_Fort",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb's_cousin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/grandparents": {
-            "label": "grandparents",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Betty_Jo_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Clyde_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Jeremy Johnson"
             ]
         },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/hometown": {
             "label": "hometown",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Danville",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Danville"
             ]
         },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/nemesis": {
             "label": "nemesis",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Mark Brown",
+                "Thaddeus Williams",
+                "Suzy Johnson"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Alex_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Annabelle_Brown",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/BRENDAN.EXE",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Big_Bob",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Big_Smoke",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan's_Minions",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan_Townsend",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan_Townsend_(2nd_Dimension)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Brendan_Townsend_(Cyborg)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Candace_Flynn_(Clone)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Debby_Simon",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dennis_Williams",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dotty_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Brendan James Townsend",
+                "Suzy Johnson"
             ]
         },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/other": {
             "label": "other",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Mandy Williams",
+                "Clyde Flynn",
+                "Grandma Betty Jo Flynn",
+                "Django Brown",
+                "Chris Williams"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adam_Williams",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adam_Williams.Jr",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Adrian_Fletcher",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Alex_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/April_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Bart_Ivanov",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Beatrice_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Betty_Jo_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Bob_Williams",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Callum_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Cantron_2000",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Chris_Williams",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Clyde_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dennis_Williams",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dennis_the_Rabbit",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Diego_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Django_Brown",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Donna_Williams",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dotty_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ducky_Momo",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Dylan_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb's_cousin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Finn_Flynn",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Isabella Garcia Shapiro",
+                "Adam Williams"
             ]
         },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/parents": {
             "label": "parents",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Xavier",
+                "Fred"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Fred",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Linda Flynn",
+                "Thomas Flynn"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/pets": {
+            "label": "pets",
+            "r_resources": [],
+            "resources": [
+                "Perry the Platypus"
             ]
         },
         "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/profession": {
             "label": "profession",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Fireside_Girls",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Fireside Girls"
             ]
         },
-        "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/stepsiblings": {
-            "label": "stepsiblings",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/siblings": {
+            "label": "siblings",
+            "r_resources": [
+                "Phineas Robert Flynn"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb_Fletcher",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/resource/Ferb_Fletcher",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Phineas Robert Flynn"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Phineas_and_Ferb_Fano/property/voice": {
+            "label": "voice",
+            "r_resources": [],
+            "resources": [
+                "Ashley Tisdale"
             ]
         }
     },

@@ -1,0 +1,71 @@
+{
+    "pred_info": {
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/director": {
+            "label": "director",
+            "r_resources": [],
+            "resources": [
+                "S.S Rajamouli"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/followedBy": {
+            "label": "followed by",
+            "r_resources": [
+                "Baahubali:The Beginning"
+            ],
+            "resources": [
+                "--"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/image": {
+            "label": "image",
+            "r_resources": [],
+            "resources": [
+                "Baahubali-2-pictures-022.jpg"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/producer": {
+            "label": "producer",
+            "r_resources": [],
+            "resources": [
+                "Shobu Yarlagadda \nPrasad Devineni"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/releaseDate": {
+            "label": "release date",
+            "r_resources": [],
+            "resources": [
+                "2017-04-28"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring": {
+            "label": "starring",
+            "r_resources": [],
+            "resources": [
+                "Prabhas",
+                "Anushka Shetty",
+                "Nassar",
+                "Ramya Krishnan",
+                "Rana Daggubati",
+                "Sathyaraj",
+                "Tamannaah"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/title": {
+            "label": "title",
+            "r_resources": [],
+            "resources": [
+                "Bahubabali:",
+                "The Conclusion"
+            ]
+        }
+    },
+    "subj_basic_info": {
+        "dbr": null,
+        "gender": "",
+        "name": "",
+        "types": "",
+        "types_sents": [
+            ""
+        ]
+    }
+}

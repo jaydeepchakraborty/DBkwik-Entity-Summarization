@@ -1,224 +1,126 @@
 {
     "pred_info": {
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/1producers": {
-            "label": "1producers",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CUL/Examples_of_usage",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/4producers": {
-            "label": "4producers",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Clara/Examples_of_usage",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations": {
             "label": "associations",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Nostraightanswer",
+                "CircusP",
+                "Koda-P",
+                "Apol"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Apol",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Apol",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CYO_Style",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CircusP",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/CircusP",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/author": {
-            "label": "author",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Alice",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Nostraightanswer",
+                "CircusP",
+                "MJQ",
+                "CYO Style",
+                "Apol"
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/composer": {
             "label": "composer",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Koda-P",
+                "Vio\u2606"
+            ],
+            "resources": []
+        },
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/content": {
+            "label": "content",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "42.0"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/currently": {
+            "label": "currently",
+            "r_resources": [],
+            "resources": [
+                "Present"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/debut": {
+            "label": "debut",
+            "r_resources": [],
+            "resources": [
+                "March 2010"
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/illust": {
             "label": "illust",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fables_of_Farewell",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Fables of Farewell"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/illustrator": {
             "label": "illustrator",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Koda-P",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Koda-P"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page": {
             "label": "page",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/A_Certain_Path",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fables_of_Farewell",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fairytale_Blue",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Leaving Donna",
+                "Fables of Farewell",
+                null,
+                "Three Hearts",
+                "Salutations & Sayonara",
+                null,
+                "Target (single)",
+                "Fairytale Blue",
+                "A Certain Path"
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer": {
             "label": "producer",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Leaving Donna",
+                "Three Hearts",
+                "Anonymous",
+                "Rose + Thorn",
+                "ORANGE LINE",
+                "Fairytale Blue",
+                "Sunflowers in Your Eyes",
+                "Knot or Not?",
+                "Waves of Change",
+                "Little Allan's Big Polka",
+                "\u5e7c\u306a\u3058\u307f\u306b\u3055\u3088\u306a\u3089 (Osananajimi ni Sayonara)",
+                "A Banshee named 42",
+                "NeapolitaN",
+                "Closure",
+                "Eulogy for Abel",
+                "Rain + Virus",
+                "Witness",
+                "Poe",
+                "White Knight",
+                "Second Star",
+                "Pinwheel",
+                "Calendar",
+                "Leaving Donna (EP)",
+                "Parallel Lines",
+                "Persephone",
+                "Three Hearts Series",
+                "\u4fe1\u53f7\u3067\u4e8c\u4eba\u51fa\u4f1a\u3063\u305f (Shingou de Futari Deatta)"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/A_Banshee_named_42",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Anonymous",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Calendar",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Closure",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Eulogy_for_Abel",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Fairytale_Blue",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Knot_or_Not%3F",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "EmpathP",
+                "EmpathP  is a producer and an illustrator. Other than producing VOCALOID works, she also produces UTAU and utaite works. She collaborates occasionally with other producers. She is also known as the illustrator of the VOCALOID3 voicebank Avanna, and the provider for the VOCALOID4 voicebank DAINA.",
+                "EmpathP, CircusP, Azureflux, Kenji-B, Apol",
+                "EmpathP, GHPZ",
+                "EmpathP, Kenji-B",
+                "EmpathP, ensou, DoNotCrossP, Sonica, Elodie, Nikki",
+                "MJQ x EmpathP"
             ]
         },
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/track4singer": {
-            "label": "track4singer",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/url": {
+            "label": "url",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Christmas_Cracker_(2013)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Channel: Nico Nico, YouTube, BandCamp, Crecrew, SoundCloud, piapro, Twitter",
+                "Gallery: DeviantART, pixiv"
             ]
         }
     },
@@ -226,11 +128,11 @@
         "dbr": null,
         "gender": "",
         "name": "EmpathP",
-        "types": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/MusicalWork|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Song|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Work",
+        "types": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/MusicalWork|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Work|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Song",
         "types_sents": [
             "a musical work",
-            "a song",
-            "a work"
+            "a work",
+            "a song"
         ]
     }
 }

@@ -2,694 +2,153 @@
     "pred_info": {
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/defunct": {
             "label": "defunct",
-            "pred_pos_tag": "JJ",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "2003-04-01",
-                    "resource_info": [
-                        "2003-04-01"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "2003-04-01"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/developer": {
             "label": "developer",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Final Fantasy VI",
+                "Final Fantasy III",
+                "Final Fantasy IX",
+                "3-D WorldRunner",
+                "Bahamut Lagoon",
+                "Blue Wing Blitz",
+                "Brave Fencer Musashi",
+                "Bushido Blade 2",
+                "Chocobo's Dungeon 2",
+                "Chocobo Collection",
+                "Chocobo Land: A Game of Dice",
+                "Chocobo Racing",
+                "Chrono Cross",
+                "Einh\u00e4nder",
+                "Final Fantasy Adventure",
+                "Final Fantasy II",
+                "Final Fantasy IV",
+                "Final Fantasy Legend",
+                "Final Fantasy Legend II",
+                "Final Fantasy Legend III",
+                "Final Fantasy V",
+                "Final Fantasy VIII",
+                "Final Fantasy XI",
+                "The Front Mission series",
+                "Front Mission 2",
+                "Front Mission 3",
+                "Front Mission Alternative",
+                "JJ",
+                "King's Knight",
+                "Legend of Mana",
+                "Parasite Eve",
+                "Parasite Eve 2",
+                "Parasite Eve II",
+                "Rad Racer",
+                "Rad Racer II",
+                "Rudra no Hih\u014d",
+                "SaGa Frontier",
+                "SaGa Frontier 2",
+                "Secret of Mana",
+                "Super Mario RPG: Legend of the Seven Stars",
+                "Unlimited Saga",
+                "Xenogears"
+            ],
+            "resources": []
+        },
+        "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/fate": {
+            "label": "fate",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/3-D_WorldRunner",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Bahamut_Lagoon",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Blue_Wing_Blitz",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Brave_Fencer_Musashi",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Bushido_Blade_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo's_Dungeon_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo_Collection",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo_Land:_A_Game_of_Dice",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo_Racing",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chrono_Cross",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Einh\u00e4nder",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Adventure",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_III",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_IV",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_IX",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Legend",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Legend_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Legend_III",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_V",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_VI",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_VIII",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_XI",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission_3",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission_Alternative",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/JJ",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/King's_Knight",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Legend_of_Mana",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Parasite_Eve",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Parasite_Eve_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Parasite_Eve_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Rad_Racer",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Rad_Racer_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Rudra_no_Hih\u014d",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/SaGa_Frontier",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/SaGa_Frontier_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Secret_of_Mana",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Super_Mario_RPG:_Legend_of_the_Seven_Stars",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Unlimited_Saga",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Xenogears",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Merged with Enix"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/founder": {
             "label": "founder",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Masafumi_Miyamoto",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/headquarters": {
-            "label": "headquarters",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Tokyo",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Video_gaming_in_Japan",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Masafumi Miyamoto"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/industry": {
             "label": "industry",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Video_game",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Video game"
             ]
         },
-        "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/label": {
-            "label": "Label",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/keyPeople": {
+            "label": "key people",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Music_of_Final_Fantasy_III",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Music_of_Final_Fantasy_IV",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Hironobu Sakaguchi, EVP",
+                "Tomoyuki Takechi, Chairman",
+                "Yoichi Wada, President"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/products": {
             "label": "products",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/List_of_Square_games",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "List of Square games"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/publisher": {
             "label": "publisher",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Final Fantasy VI",
+                "Final Fantasy III",
+                "Final Fantasy IX",
+                "Alcahest",
+                "Bahamut Lagoon",
+                "Blue Wing Blitz",
+                "Brave Fencer Musashi",
+                "Breath of Fire",
+                "Bushido Blade 2",
+                "Chocobo's Dungeon 2",
+                "Chocobo Collection",
+                "Chocobo Land: A Game of Dice",
+                "Chocobo Racing",
+                "Chrono Cross",
+                "Einh\u00e4nder",
+                "Final Fantasy Adventure",
+                "Final Fantasy II",
+                "Final Fantasy IV",
+                "Final Fantasy Legend",
+                "Final Fantasy Legend III",
+                "Final Fantasy V",
+                "Final Fantasy VIII",
+                "Front Mission: Gun Hazard",
+                "Front Mission 2",
+                "Front Mission 3",
+                "Front Mission Alternative",
+                "JJ",
+                "King's Knight",
+                "Parasite Eve II",
+                "Rad Racer",
+                "Rad Racer II",
+                "Romancing SaGa",
+                "Romancing SaGa 3",
+                "Secret of Mana",
+                "Soukaigi",
+                "Thexder",
+                "Treasure Hunter G",
+                "Xenogears"
+            ],
+            "resources": []
+        },
+        "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/title": {
+            "label": "title",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Alcahest",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Bahamut_Lagoon",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Blue_Wing_Blitz",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Brave_Fencer_Musashi",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Breath_of_Fire",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Bushido_Blade_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo's_Dungeon_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo_Collection",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo_Land:_A_Game_of_Dice",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chocobo_Racing",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Chrono_Cross",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Einh\u00e4nder",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Adventure",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_III",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_IV",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_IX",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Legend",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_Legend_III",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_V",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_VI",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Final_Fantasy_VIII",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission:_Gun_Hazard",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission_2",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission_3",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Front_Mission_Alternative",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/JJ",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/King's_Knight",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Parasite_Eve_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Rad_Racer",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Rad_Racer_II",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Romancing_SaGa",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Romancing_SaGa_3",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Secret_of_Mana",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Soukaigi",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Thexder",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Treasure_Hunter_G",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Xenogears",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Square Co., Ltd.",
+                "\u682a\u5f0f\u4f1a\u793e\u30b9\u30af\u30a6\u30a7\u30a2"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/type": {
             "label": "type",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/resource/Public_company",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/website": {
-            "label": "website",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://www.square-enix.com",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Public company"
             ]
         }
     },

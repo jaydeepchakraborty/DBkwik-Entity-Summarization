@@ -1,497 +1,134 @@
 {
     "pred_info": {
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/2producers": {
-            "label": "2producers",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/MEIKO/Examples_of_usage",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/3producers": {
-            "label": "3producers",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Camui_Gackpo/Examples_of_usage",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/associations": {
             "label": "associations",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Suzunosuke",
+                "Ichika",
+                "Painter Brioche",
+                "Rgveta"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Ichika",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Ichika",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Kitano_Tomotoshi",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Painter_Brioche",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Painter_Brioche",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Rgveta",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Suzunosuke",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Suzunosuke",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/author": {
-            "label": "author",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Story_of_Evil",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Suzunosuke",
+                "Ichika",
+                "Painter Brioche",
+                null,
+                "Kitano Tomotoshi",
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/composer": {
             "label": "composer",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Ichika",
+                "Shiuka",
+                "Hekicha",
+                "Kitano Tomotoshi",
+                "Hiyokomanjuu-P",
+                "Rgveta",
+                "Osamu"
+            ],
+            "resources": []
+        },
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/content": {
+            "label": "content",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Hekicha",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Hiyokomanjuu-P",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Ichika",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Kitano_Tomotoshi",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Osamu",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Rgveta",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Shiuka",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "# \"Juppun no Koi\"   \n# \"Kotoba Asobi\"   \n# \"Zenmaijikake no Komoriuta\"   \n# \"Aku no Musume\"   \n# \"Aku no Meshitsukai\"   \n# \"Regret Message\"  \n# \"Hakoniwa no Shoujo ~Zenmaijikake no Komoriuta 2~\"  ~Clockwork Lullaby 2 ~ )  \n# \"Aku no Musume \"  \n# \"Aku no Meshitsukai \"  \n# \"Okizari Tsukiyo Shou\"   \n# \"South North Story\"   \n# \"Re_birthday ~Zenmaijikake no Komoriuta 3~\"  \n# \"Akujiki Musume Conchita\"   \n# \"moonlit bear\"  \n# \"Neji to Haguruma to Pride\"    \n# \"Heartbeat Clocktower ~Zenmaijikake no Komoriuta 4~  \n# \"Mukuchina Kimi e  \n# \"Enbizaka no Shitateya\"   \n# \"Aku no Musume ~velvet mix~\"   \n# \"Aku no Meshitsukai ~velvet mix~\"   \n# \"Shiro no Musume\"   \n# \"Mangetsu no Jikkenshitsu\"   \n# \"Saigo no Revolver\"   \n# \"Heartbeat Clocktower  ~Zenmaijikake no Komoriuta 4~  \n# \"Sabaku no BLUEBIRD\"   \n# \"Venomania Kou no Kyouki\"   \n# \"Twiright Prank\"  \n# \"Ourin no Honoo\"     \n# \"Madamu Merri-Go-Raundo\"   \n# \"Akai Kutsu no Parade\"    \n# \"Chrono Story\"  \n# \"Nemurase Hime Kara no Okurimono\"   \n# \"Gobanme No Pierrot\"    \n# \"Akutoku no Judgment\"   \n# \"Chaban Capriccio ~Zenmaijikake no Komoriuta 6~ \"  \n# \"Plateau no Hana\"   \n# \"Shinon no Tokeitou\"   \n# \"Majo Salmhofer no Toubou\"  \n# \"Chimidoro Switch\"   \n# \"Bokura o Miteita\"   \n# \"Goumontou wa Nemuranai\"   \n# \"Nemesis no Juukou\"   \n# \"Madoushi Futari Tabi ~Chouheki to Bannin~\"   \n# \"Glassred no Shouzou\"   \n# \"Nanatsu no Tsumi to Batsu\"   \n# \"Shuumatsu Shounen H\u00e4nsel\"   \n# \"Ma Survival\"  \n# \"Eiyuu no Yoroi wa Tsune ni Akaku\"   \n# \"Ka no Ou wa Doro Yori Umareta\""
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/currently": {
+            "label": "currently",
+            "r_resources": [],
+            "resources": [
+                "Active"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/debut": {
+            "label": "debut",
+            "r_resources": [],
+            "resources": [
+                "February 2008"
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/lyricist": {
             "label": "lyricist",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Ichika",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Jounetsu-P",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Tenkomori",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Ichika",
+                "Jounetsu-P",
+                "Tenkomori"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/page": {
             "label": "page",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Aku_no_Musume_Dokusho_no_Tame_no_BGM_Shuu_(\u300c\u60aa\u30ce\u5a18\u300d_\u8aad\u66f8\u306e\u305f\u3081\u306eBGM\u96c6)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Aku_no_Musume_\u301cSeien_no_Gemini\u301c_Vocal_&_Soundtrack_(\u60aa\u30ce\u5a18\u301c\u51c4\u8276\u306e\u30b8\u30a7\u30df\u30cb\u301c_\u30dc\u30fc\u30ab\u30eb\uff06\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Aku_no_Oukoku_\u301cEvils_Kingdom\u301c_(\u60aa\u30ce\u738b\u56fd\u301cEvils_Kingdom\u301c)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Aku_no_Yongakusou_\uff5eAku_no_Musume_Novel_Gakkyoku_Shuu\uff5e_(\u60aa\u30ce\u56db\u697d\u594f\uff5e\u60aa\u30ce\u5a18\u30ce\u30d9\u30eb\u697d\u66f2\u96c6\uff5e)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Akujiki_Musume_Conchita_(Kai)_(\u60aa\u98df\u5a18\u30b3\u30f3\u30c1\u30fc\u30bf\uff08\u6539\uff09)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Akutoku_no_Judgment_\uff5ea_court_of_greed\uff5e_(\u60aa\u5fb3\u306e\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8_\uff5ea_court_of_greed\uff5e)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/EVILS_COURT",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/EVILS_FOREST",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Evils_Theater",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Genzai_Monogatari_-_Dai_1-Maku_-_(\u539f\u7f6a\u7269\u8a9e-\u7b2c1\u5e55-)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Genzai_Monogatari_-_Dai_2-Maku_-_(\u539f\u7f6a\u7269\u8a9e-\u7b2c2\u5e55-)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Genzai_Monogatari_-_Kanzen_Ban_-_(\u539f\u7f6a\u7269\u8a9e_-\u5b8c\u5168\u7248-)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Lucifenia_Trinity",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nanatsu_no_Tsumi_to_Batsu_(\u4e03\u3064\u306e\u7f6a\u3068\u7f70)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Neji_to_Haguruma_to_Pride_(\u30cd\u30b8\u3068\u6b6f\u8eca\u3068\u30d7\u30e9\u30a4\u30c9)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nemesis_no_Juukou_(\u30cd\u30e1\u30b7\u30b9\u306e\u9283\u53e3)_(album)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Prelude_to_forest",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                "Genzai Monogatari - Dai 1-Maku - (\u539f\u7f6a\u7269\u8a9e-\u7b2c1\u5e55-)",
+                "EVILS COURT",
+                "Genzai Monogatari - Dai 2-Maku - (\u539f\u7f6a\u7269\u8a9e-\u7b2c2\u5e55-)",
+                null,
+                null,
+                "Aku no Oukoku \u301cEvils Kingdom\u301c (\u60aa\u30ce\u738b\u56fd\u301cEvils Kingdom\u301c)",
+                "Aku no Yongakusou \uff5eAku no Musume Novel Gakkyoku Shuu\uff5e (\u60aa\u30ce\u56db\u697d\u594f\uff5e\u60aa\u30ce\u5a18\u30ce\u30d9\u30eb\u697d\u66f2\u96c6\uff5e)",
+                null,
+                "Nanatsu no Tsumi to Batsu (\u4e03\u3064\u306e\u7f6a\u3068\u7f70)",
+                "Evils Theater",
+                "Akutoku no Judgment \uff5ea court of greed\uff5e (\u60aa\u5fb3\u306e\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8 \uff5ea court of greed\uff5e)",
+                null,
+                "EVILS FOREST",
+                "Neji to Haguruma to Pride (\u30cd\u30b8\u3068\u6b6f\u8eca\u3068\u30d7\u30e9\u30a4\u30c9)",
+                "Prelude to forest",
+                "Nemesis no Juukou (\u30cd\u30e1\u30b7\u30b9\u306e\u9283\u53e3) (album)"
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producer": {
             "label": "producer",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Genzai Monogatari - Dai 1-Maku - (\u539f\u7f6a\u7269\u8a9e-\u7b2c1\u5e55-)",
+                "EVILS COURT",
+                "Genzai Monogatari - Dai 2-Maku - (\u539f\u7f6a\u7269\u8a9e-\u7b2c2\u5e55-)",
+                "Aku no Oukoku \u301cEvils Kingdom\u301c (\u60aa\u30ce\u738b\u56fd\u301cEvils Kingdom\u301c)",
+                "Aku no Yongakusou \uff5eAku no Musume Novel Gakkyoku Shuu\uff5e (\u60aa\u30ce\u56db\u697d\u594f\uff5e\u60aa\u30ce\u5a18\u30ce\u30d9\u30eb\u697d\u66f2\u96c6\uff5e)",
+                "Nanatsu no Tsumi to Batsu (\u4e03\u3064\u306e\u7f6a\u3068\u7f70)",
+                "Evils Theater",
+                "Akutoku no Judgment \uff5ea court of greed\uff5e (\u60aa\u5fb3\u306e\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8 \uff5ea court of greed\uff5e)",
+                "Prelude to forest",
+                "Nemesis no Juukou (\u30cd\u30e1\u30b7\u30b9\u306e\u9283\u53e3) (album)",
+                "Triangle vol. 2",
+                "Triangle -vol. 1-",
+                "Original Sin Story",
+                "Clockwork Lullaby",
+                "EXIT TUNES album compilations",
+                "Seven Deadly Sins",
+                "Camui Gackpo",
+                "Kagamine Rin",
+                "Kagamine",
+                "Songs featuring MAYU",
+                "Songs featuring MEIKO",
+                "Story of Evil",
+                "The Evillious Chronicles"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Aku_no_Oukoku_\u301cEvils_Kingdom\u301c_(\u60aa\u30ce\u738b\u56fd\u301cEvils_Kingdom\u301c)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Aku_no_Yongakusou_\uff5eAku_no_Musume_Novel_Gakkyoku_Shuu\uff5e_(\u60aa\u30ce\u56db\u697d\u594f\uff5e\u60aa\u30ce\u5a18\u30ce\u30d9\u30eb\u697d\u66f2\u96c6\uff5e)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Akutoku_no_Judgment_\uff5ea_court_of_greed\uff5e_(\u60aa\u5fb3\u306e\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8_\uff5ea_court_of_greed\uff5e)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Clockwork_Lullaby",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/EVILS_COURT",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/EXIT_TUNES_album_compilations",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Evils_Theater",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Genzai_Monogatari_-_Dai_1-Maku_-_(\u539f\u7f6a\u7269\u8a9e-\u7b2c1\u5e55-)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Genzai_Monogatari_-_Dai_2-Maku_-_(\u539f\u7f6a\u7269\u8a9e-\u7b2c2\u5e55-)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nanatsu_no_Tsumi_to_Batsu_(\u4e03\u3064\u306e\u7f6a\u3068\u7f70)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Nemesis_no_Juukou_(\u30cd\u30e1\u30b7\u30b9\u306e\u9283\u53e3)_(album)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Original_Sin_Story",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Prelude_to_forest",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Seven_Deadly_Sins",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Songs_featuring_Camui_Gackpo",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Songs_featuring_Kagamine_Rin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Songs_featuring_Kagamines",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Songs_featuring_MAYU",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Songs_featuring_MEIKO",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Story_of_Evil",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/The_Evillious_Chronicles",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Akuno-P",
+                "Akuno-P, Toraboruta-P",
+                "Akuno-P, UniMemo-P",
+                "mothy_Akuno-P   is a Vocaloid producer best known for creating the Aku no Monogatari Series. Akuno-P was one of the many obscure producers until he released \"Aku no Meshitsukai\", which subsequently became a big hit. \"Aku no Musume\" was uploaded before \"Aku no Meshitsukai\", but only became well-known after \"Aku no Meshitsukai\" had gained popularity.\n\nHe is known for creating songs that tell stories, generally tragic and/or macabre. The songs are grouped in several series, some following a common story like Aku no Monogatari series, and others just related through a common theme or topic, like the Clockwork Lullaby and the Seven Deadly Sins series.\n\nThe series are connected, crossing over in various song and forming an intricate storyline known as The Evillious Chronicles.  Due to the loose or ambiguous link between some songs and series, added to the fact that this storyline is continuously expanding and not all the songs have been revealed yet, slight confusion among the fans about how they are related is common."
             ]
         },
         "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/producers": {
             "label": "producers",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Moonlit_bear",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/Re_birthday",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "\u60aa\u30ce\u5a18 (Aku no Musume)"
+            ],
+            "resources": []
         },
-        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/track7singer": {
-            "label": "track7singer",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Vocaloid_Wik/property/url": {
+            "label": "url",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/resource/The_Vocaloid_Jazz_sessions_Vol.1",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "Channel: Niconico YouTube"
             ]
         }
     },
@@ -499,11 +136,11 @@
         "dbr": null,
         "gender": "",
         "name": "Akuno-P",
-        "types": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/MusicalWork|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Song|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Work",
+        "types": "http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/MusicalWork|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Work|http://dbkwik.webdatacommons.org/Vocaloid_Wik/ontology/Song",
         "types_sents": [
             "a musical work",
-            "a song",
-            "a work"
+            "a work",
+            "a song"
         ]
     }
 }

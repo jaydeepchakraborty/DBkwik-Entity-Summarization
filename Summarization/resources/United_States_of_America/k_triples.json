@@ -2,555 +2,133 @@
     "pred_info": {
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/capital": {
             "label": "capital",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Washington,_D.C.",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/country": {
             "label": "country",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Acter",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Acter_Industrial_Park",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Alderney_City",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Angel_Pine",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Bayside",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Berchem",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Blueberry",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Cape_Catfish",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Chumash",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Davis",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Del_Perro",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Dillimore",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/El_Quebrados",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Fort_Carson",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Galilee",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Grapeseed",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Harmony",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Las_Barrancas",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Las_Payasadas",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Las_Venturas_(3D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Leftwood",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Liberty_City_(2D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Liberty_City_(3D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Los_Santos_(3D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Los_Santos_(HD_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Montgomery",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Normandy",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/North_Chumash",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Paleto_Bay",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Palomino_Creek",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Port_Tudor",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/San_Andreas_(2D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/San_Fierro_(3D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Sandy_Shores",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Tudor",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Vice_City_(2D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Vice_City_(3D_Universe)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Westdyke",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Acter",
+                "Acter Industrial Park, Alderney City",
+                "Alderney City",
+                "Angel Pine",
+                "Bayside",
+                "Berchem",
+                "Blueberry",
+                "Cape Catfish",
+                "Chumash",
+                "Davis",
+                "Del Perro",
+                "Dillimore",
+                "El Quebrados",
+                "Fort Carson",
+                "Galilee",
+                "Grapeseed",
+                "Harmony",
+                "Las Barrancas",
+                "Las Payasadas",
+                "City of Las Venturas",
+                "Leftwood, Alderney City",
+                "Liberty City",
+                "City of Liberty",
+                "City of Los Santos",
+                "City of Los Santos",
+                "Montgomery",
+                "Normandy, Alderney",
+                "North Chumash",
+                "Paleto Bay",
+                "Palomino Creek",
+                "Port Tudor, Alderney City",
+                "City of San Andreas",
+                "City of San Fierro",
+                "Sandy Shores",
+                "Tudor, Alderney City",
+                "Vice City",
+                "Vice City",
+                "Westdyke, Alderney City"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/established": {
             "label": "established",
-            "pred_pos_tag": "VBD",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "1776-07-04",
-                    "resource_info": [
-                        "1776-07-04"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "1776-07-04"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/home": {
             "label": "home",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Jennifer_Zelinski",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Jennifer Zelinski"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/largestCity": {
             "label": "largest city",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:New_York_City",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/leaderName": {
             "label": "leader name",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Donald_Trump",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:Mike_Pence",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null,
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/locations": {
             "label": "locations",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Merryweather_Security",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Merryweather Security"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/officialLanguages": {
             "label": "official languages",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Wikipedia:English_language",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                null
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/origin": {
             "label": "origin",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Bullpup_Shotgun",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Combat_PDW",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Compact_Rifle",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Firework_Launcher",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Heavy_Revolver",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Heavy_Shotgun",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Homing_Launcher",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/MG",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Pistol_.50",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Railgun",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Rocket_Launcher",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/SNS_Pistol",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Bullpup Shotgun",
+                "Combat PDW",
+                "Compact Rifle",
+                "Firework Launcher",
+                "Heavy Revolver",
+                "Heavy Shotgun",
+                "Homing Launcher",
+                "MG",
+                "Pistol .50",
+                "Railgun",
+                "Rocket Launcher",
+                "SNS Pistol"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/pob": {
             "label": "pob",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Avery_Carrington",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Candy_Suxxx",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Donald_Love",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Jesco_White",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Karim_Denz",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Lazlow_Jones",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Leonora_Johnson",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Luther_Austin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Marnie_Allen",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Pastor_Richards",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Poppy_Mitchell",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/GTA_Wik/resource/Tanner",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Avery Carrington",
+                "Candice Shand",
+                "Donald Love",
+                "Jesco White",
+                "Karim Denz",
+                "Lazlow Jones",
+                "Leonora Johnson",
+                "Luther Austin",
+                "Marlene Allen",
+                "Pastor Richards",
+                "Poppy Mitchell",
+                "Tanner"
+            ],
+            "resources": []
         }
     },
     "subj_basic_info": {

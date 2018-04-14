@@ -1,579 +1,120 @@
 {
     "pred_info": {
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/company": {
-            "label": "company",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/country": {
+            "label": "Country",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fantastic_Four_(1967_TV_series)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Spider-Man_(1967_TV_series)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
+                "United States"
             ]
         },
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers": {
-            "label": "Employers",
-            "pred_pos_tag": null,
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/genre": {
+            "label": "genre",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Antonio_Fabela",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ardian_Syaf",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aron_E._Coleite",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aubrey_Sitterson",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Bill_Rosemann",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Blond",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Bob_Cram,_Jr.",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Brian_Denham",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Crimelab_Studios",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Gabriel_Gecko",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Glenn_Greenberg",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jonathan_Hickman",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jorge_Molina",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Kaare_Andrews",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Lauren_Sankovitch",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mariana_Manco",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Nick_J._Napolitano",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Steve_Smallwood",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
-        },
-        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/founder(s)": {
-            "label": "founder(s)",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Martin_Goodman",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Crime, horror, mystery, romance, science fiction, war, Western, superheroes"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/headquarters": {
             "label": "headquarters",
-            "pred_pos_tag": "NNS",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "135",
-                    "resource_info": [
-                        "135"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "135"
+            ]
+        },
+        "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/imprints": {
+            "label": "imprints",
+            "r_resources": [],
+            "resources": [
+                "[[#Imprints"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/keypeople": {
             "label": "keypeople",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Axel_Alonso",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Editor-in-chief",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Axel Alonso",
+                "Editor-in-chief",
+                "Dan Buckley, publisher, COO",
+                "Stan Lee, former EIC, publisher"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent": {
             "label": "parent",
-            "pred_pos_tag": null,
+            "r_resources": [
+                "Malibu Comics",
+                "Epic Comics",
+                "Aircel Comics",
+                "Marvel Books"
+            ],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aircel_Comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Epic_Comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Malibu_Comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvel_Books",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvel_Entertainment",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Marvel Entertainment Group, Inc."
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub": {
             "label": "pub",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jack_Kirby_bibliography",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Superhero_comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Western_comics",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Western comics"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publications": {
             "label": "publications",
-            "pred_pos_tag": "NNS",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": null,
-                    "resource": "Comics/See List of Marvel Comics publications",
-                    "resource_info": [
-                        "Comics/See List of Marvel Comics publications"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Comics/See List of Marvel Comics publications"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher": {
             "label": "Publisher",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Amazing-Man_(Centaur_Publications)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ant-Man",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Apocalypse:_The_Twelve",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Assault_on_Weapon_Plus",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Champions_of_Xandar",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Conspiracy_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Days_of_Future_Present",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Deathurge",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Demon_in_a_Bottle",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/End_of_Greys",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fall_of_the_Mutants",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fantastic_Four_(1997_video_game)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fatal_Attractions_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/G.I._Joe:_A_Real_American_Hero_(Marvel_Comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Legion_Quest",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvelman",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Muir_Island_Saga",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mutant_Massacre",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Operation:_Zero_Tolerance",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Planet_Hulk",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Revolution_(comics)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Smartship_Friday",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Star_Trek:_Early_Voyages",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Thanos_Rising",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Avengers:_United_They_Stand",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Dark_Phoenix_Saga",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Incredible_Hulk:_The_Pantheon_Saga",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Incredible_Hulk_(1994_video_game)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Stand:_Captain_Trips",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ultraforce",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Weapon_X_(story_arc)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Cutioner's_Song",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Endangered_Species",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Eve_of_Destruction",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Messiah_Complex",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Second_Coming",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men_(TV_series)",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Tinction_Agenda",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "X-Men (TV series)",
+                "Amazing-Man (Centaur Publications)",
+                "Ant-Man",
+                "Apocalypse: The Twelve",
+                "Assault on Weapon Plus",
+                "Champions of Xandar",
+                "The Conspiracy",
+                "Days of Future Present",
+                "Deathurge",
+                "Demon in a Bottle",
+                "End of Greys",
+                "Fall of the Mutants",
+                "Fantastic Four (1997 video game)",
+                "Fatal Attractions (comics)",
+                "G.I. Joe: A Real American Hero (Marvel Comics)",
+                "Legion Quest",
+                "Marvelman",
+                "Muir Island Saga",
+                "Mutant Massacre",
+                "Operation: Zero Tolerance",
+                "Planet Hulk",
+                "Revolution (comics)",
+                "Smartship Friday",
+                "Star Trek: Early Voyages",
+                "Thanos Rising",
+                "The Avengers: United They Stand",
+                "The Dark Phoenix Saga",
+                "The Incredible Hulk: The Pantheon Saga",
+                "Incredible Hulk",
+                "The Stand: Captain Trips",
+                "Ultraforce",
+                "Weapon X (story arc)",
+                "X-Cutioner's Song",
+                "X-Men: Endangered Species",
+                "X-Men: Eve of Destruction",
+                "X-Men: Messiah Complex",
+                "X-Men: Second Coming",
+                "X-Tinction Agenda"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/title": {
             "label": "title",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Archie_Goodwin",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": null,
-                    "resource": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Joe_Simon",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Joe Simon",
+                "Archie Goodwin"
+            ],
+            "resources": []
         }
     },
     "subj_basic_info": {

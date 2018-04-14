@@ -2,418 +2,152 @@
     "pred_info": {
         "http://dbkwik.webdatacommons.org/HarryPotter/property/alias": {
             "label": "alias",
-            "pred_pos_tag": "VBP",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.03508771929824561e0",
-                    "resource": "*Boy Who Lived\n*Chosen One\n*Master of Death\n*Undesirable No. 1\n*Lightning \n*Potter boy\n*Boy Who Lied \n*Gregory Goyle\n*Barny Weasley\n*Vernon Dudley\n*Albert Runcorn\n*Potty \n*Potty Wee Potter",
-                    "resource_info": [
-                        "Boy Who Lived",
-                        "Chosen One",
-                        "Master of Death",
-                        "Undesirable No. 1",
-                        "Lightning",
-                        "Potter boy",
-                        "Boy Who Lied",
-                        "Gregory Goyle",
-                        "Barny Weasley",
-                        "Vernon Dudley",
-                        "Albert Runcorn",
-                        "Potty",
-                        "Potty Wee Potter"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Boy Who Lived",
+                "Chosen One",
+                "Master of Death",
+                "Undesirable No. 1",
+                "Lightning",
+                "Potter boy",
+                "Boy Who Lied",
+                "Gregory Goyle",
+                "Barny Weasley",
+                "Vernon Dudley",
+                "Albert Runcorn",
+                "Potty",
+                "Potty Wee Potter"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/born": {
             "label": "born",
-            "pred_pos_tag": "VBD",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.3879217743124857e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Great_Britain",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.38110897064782073e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/England",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.24209697543317893e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Godric's_Hollow",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.22911787333057032e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/West_Country",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.10867025005842486e0",
-                    "resource": "1980-07-31",
-                    "resource_info": [
-                        "1980-07-31"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Great Britain",
+                "England",
+                "Godric's Hollow",
+                "West Country",
+                "1980-07-31"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/eyes": {
             "label": "eyes",
-            "pred_pos_tag": "NNS",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.10988886368791109e0",
-                    "resource": "Bright green",
-                    "resource_info": [
-                        "Bright green"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Bright green"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/family": {
             "label": "family",
-            "pred_pos_tag": "NN",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.07923169267707084e0",
-                    "resource": "*Ignotus Peverell  \u2020\n*Linfred of Stinchcombe  \u2020\n*Fleamont Potter  \u2020\n*Euphemia Potter  \u2020\n*Mr Evans  \u2020\n*Mrs Evans  \u2020\n*James Potter  \u2020\n*Lily Potter   \u2020\n*Arthur Weasley \n*Molly Weasley  \n*Ginevra Potter  \n*James Potter II \n*Albus Potter \n*Lily Potter II \n*Ron Weasley \n*Hermione Granger  \n*Rose Granger-Weasley \n*Hugo Granger-Weasley \n*Fred Weasley  \u2020\n*George Weasley \n*Angelina Weasley  \n*Fred Weasley II \n*Roxanne Weasley \n*Bill Weasley \n*Fleur Weasley   \n*Victoire Weasley \n*Dominique Weasley \n*Louis Weasley \n*Charlie Weasley \n*Percy Weasley \n*Audrey Weasley \n*Molly Weasley \n*Lucy Weasley \n*Petunia Dursley   \u2020\n*Vernon Dursley \n*Dudley Dursley \n*Mrs Dursley \n*Dudley's children \n\n*Tom Riddle  \u2020\n*Weasley family \n*Fleamont family \n*House of Black \n*House of Gaunt",
-                    "resource_info": [
-                        "Ignotus Peverell",
-                        "Linfred of Stinchcombe",
-                        "Fleamont Potter",
-                        "Euphemia Potter",
-                        "Mr Evans",
-                        "Mrs Evans",
-                        "James Potter",
-                        "Lily Potter",
-                        "Arthur Weasley",
-                        "Molly Weasley",
-                        "Ginevra Potter",
-                        "James Potter II",
-                        "Albus Potter",
-                        "Lily Potter II",
-                        "Ron Weasley",
-                        "Hermione Granger",
-                        "Rose GrangerWeasley",
-                        "Hugo GrangerWeasley",
-                        "Fred Weasley",
-                        "George Weasley",
-                        "Angelina Weasley",
-                        "Fred Weasley II",
-                        "Roxanne Weasley",
-                        "Bill Weasley",
-                        "Fleur Weasley",
-                        "Victoire Weasley",
-                        "Dominique Weasley",
-                        "Louis Weasley",
-                        "Charlie Weasley",
-                        "Percy Weasley",
-                        "Audrey Weasley",
-                        "Molly Weasley",
-                        "Lucy Weasley",
-                        "Petunia Dursley",
-                        "Vernon Dursley",
-                        "Dudley Dursley",
-                        "Mrs Dursley",
-                        "Dudleys children",
-                        "Tom Riddle",
-                        "Weasley family",
-                        "Fleamont family",
-                        "House of Black",
-                        "House of Gaunt"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Ignotus Peverell",
+                "Linfred of Stinchcombe",
+                "Fleamont Potter",
+                "Euphemia Potter",
+                "Mr Evans",
+                "Mrs Evans",
+                "James Potter",
+                "Lily Potter",
+                "Arthur Weasley",
+                "Molly Weasley",
+                "Ginevra Potter",
+                "James Potter II",
+                "Albus Potter",
+                "Lily Potter II",
+                "Ron Weasley",
+                "Hermione Granger",
+                "Rose GrangerWeasley",
+                "Hugo GrangerWeasley",
+                "Fred Weasley",
+                "George Weasley",
+                "Angelina Weasley",
+                "Fred Weasley II",
+                "Roxanne Weasley",
+                "Bill Weasley",
+                "Fleur Weasley",
+                "Victoire Weasley",
+                "Dominique Weasley",
+                "Louis Weasley",
+                "Charlie Weasley",
+                "Percy Weasley",
+                "Audrey Weasley",
+                "Molly Weasley",
+                "Lucy Weasley",
+                "Petunia Dursley",
+                "Vernon Dursley",
+                "Dudley Dursley",
+                "Mrs Dursley",
+                "Dudleys children",
+                "Tom Riddle",
+                "Weasley family",
+                "Fleamont family",
+                "House of Black",
+                "House of Gaunt"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/hair": {
             "label": "hair",
-            "pred_pos_tag": "NN",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.11095164495473614e0",
-                    "resource": "Jet-black",
-                    "resource_info": [
-                        "Jet-black"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Jet-black"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/harrypotterrole": {
             "label": "harrypotterrole",
-            "pred_pos_tag": null,
-            "resources": [
-                {
-                    "rank": "0.17726859705325052e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Daniel_Radcliffe",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": "0.13892001433809106e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Adam_Sopp",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": "0.13614779739033245e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Daniel_Larner",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": "0.13313612188985696e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Tom_Attenborough",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                },
-                {
-                    "rank": "0.12625855819573098e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Toby_Papworth",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "true"
-                }
-            ]
+            "r_resources": [
+                "Daniel Radcliffe",
+                "Adam Sopp",
+                "Daniel Larner",
+                "Tom Attenborough",
+                "Toby Papworth"
+            ],
+            "resources": []
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/house": {
             "label": "house",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.0012719268869064485e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Gryffindor",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Gryffindor"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/position": {
             "label": "position",
-            "pred_pos_tag": "NN",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Captain of the Gryffindor Quidditch team",
-                    "resource_info": [
-                        "Captain of the Gryffindor Quidditch team"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Head of the Auror Office",
-                    "resource_info": [
-                        "Head of the Auror Office"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Master of the Elder Wand",
-                    "resource_info": [
-                        "Master of the Elder Wand"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Owner of 12 Grimmauld Place",
-                    "resource_info": [
-                        "Owner of 12 Grimmauld Place"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Owner of Tom Riddle's Diary",
-                    "resource_info": [
-                        "Owner of Tom Riddle's Diary"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Owner of the Cloak of Invisibility",
-                    "resource_info": [
-                        "Owner of the Cloak of Invisibility"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Owner of the Marauder's Map",
-                    "resource_info": [
-                        "Owner of the Marauder's Map"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Owner of the Resurrection Stone",
-                    "resource_info": [
-                        "Owner of the Resurrection Stone"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Patriarch of the House of Potter",
-                    "resource_info": [
-                        "Patriarch of the House of Potter"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Secret-Keeper of 12 Grimmauld Place",
-                    "resource_info": [
-                        "Secret-Keeper of 12 Grimmauld Place"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "Seeker of the Gryffindor Quidditch team",
-                    "resource_info": [
-                        "Seeker of the Gryffindor Quidditch team"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Captain of the Gryffindor Quidditch team",
+                "Head of the Auror Office",
+                "Master of the Elder Wand",
+                "Owner of 12 Grimmauld Place",
+                "Owner of Tom Riddle's Diary",
+                "Owner of the Cloak of Invisibility",
+                "Owner of the Marauder's Map",
+                "Owner of the Resurrection Stone",
+                "Patriarch of the House of Potter",
+                "Secret-Keeper of 12 Grimmauld Place",
+                "Seeker of the Gryffindor Quidditch team"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/species": {
             "label": "species",
-            "pred_pos_tag": null,
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.0025443637645488e0",
-                    "resource": "http://dbkwik.webdatacommons.org/HarryPotter/resource/Human",
-                    "resource_info": [],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "Human"
             ]
         },
         "http://dbkwik.webdatacommons.org/HarryPotter/property/years": {
             "label": "years",
-            "pred_pos_tag": "NNS",
+            "r_resources": [],
             "resources": [
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1981",
-                    "resource_info": [
-                        "1981"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1991",
-                    "resource_info": [
-                        "1991"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1993",
-                    "resource_info": [
-                        "1993"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1994",
-                    "resource_info": [
-                        "1994"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1995",
-                    "resource_info": [
-                        "1995"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1996",
-                    "resource_info": [
-                        "1996"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1997",
-                    "resource_info": [
-                        "1997"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "1998",
-                    "resource_info": [
-                        "1998"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                },
-                {
-                    "rank": "0.004922067268252666e0",
-                    "resource": "2007",
-                    "resource_info": [
-                        "2007"
-                    ],
-                    "rev_resource_info": [],
-                    "reverse": "false"
-                }
+                "1981",
+                "1991",
+                "1993",
+                "1994",
+                "1995",
+                "1996",
+                "1997",
+                "1998",
+                "2007"
             ]
         }
     },

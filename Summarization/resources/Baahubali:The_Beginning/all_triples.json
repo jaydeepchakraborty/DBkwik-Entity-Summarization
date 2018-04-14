@@ -14,108 +14,6 @@
         "bindings": [
             {
                 "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/resource/Baahubali:The_Conclusion"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.1925"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/followedBy"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "followed by",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/resource/Prabhas"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.3284577629247644"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "starring",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
-                    "type": "literal",
-                    "value": "2015-07-10"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/releaseDate"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "release date",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "literal",
-                    "value": "Anushka Shetty",
-                    "xml:lang": "en"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "starring",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
                     "type": "literal",
                     "value": "Baahubali poster.jpg",
                     "xml:lang": "en"
@@ -133,6 +31,16 @@
                     "type": "literal",
                     "value": "image",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3269230769230769"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1028225806451613e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -160,6 +68,158 @@
                     "value": "title",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3076923076923077"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.10084033613445378e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/resource/Prabhas"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.3284577629247644"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03442988917179187e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/resource/Baahubali:The_Conclusion"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1925"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/followedBy"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "followed by",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03205661948376353e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#date",
+                    "type": "literal",
+                    "value": "2015-07-10"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/releaseDate"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "release date",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Anushka Shetty",
+                    "xml:lang": "en"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Baahubali_Wik/property/starring"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "starring",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -185,6 +245,16 @@
                     "type": "literal",
                     "value": "starring",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -212,6 +282,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -237,6 +317,16 @@
                     "type": "literal",
                     "value": "starring",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -264,6 +354,16 @@
                     "value": "starring",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -289,6 +389,16 @@
                     "type": "literal",
                     "value": "director",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -316,6 +426,16 @@
                     "value": "starring",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -342,6 +462,16 @@
                     "value": "producer",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -367,6 +497,16 @@
                     "type": "literal",
                     "value": "starring",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.038461538461538464"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.030612244897959186e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",

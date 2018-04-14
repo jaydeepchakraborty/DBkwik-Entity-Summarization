@@ -15,256 +15,6 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aircel_Comics"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.16380415579692645"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "parent",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Amazing-Man_(Centaur_Publications)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.16368977252954636"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ant-Man"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Antonio_Fabela"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Apocalypse:_The_Twelve"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Archie_Goodwin"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/title"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "title",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ardian_Syaf"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.16117142857142858"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aron_E._Coleite"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Assault_on_Weapon_Plus"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aubrey_Sitterson"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
                     "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Axel_Alonso"
                 },
                 "obj_rank": {
@@ -281,260 +31,20 @@
                     "value": "keypeople",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4354423321310386e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
                     "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Bill_Rosemann"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Blond"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Bob_Cram,_Jr."
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Brian_Denham"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.17023809523809524"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Champions_of_Xandar"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Conspiracy_(comics)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Crimelab_Studios"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Days_of_Future_Present"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Deathurge"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Demon_in_a_Bottle"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
                 }
             },
             {
@@ -556,6 +66,16 @@
                     "value": "keypeople",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.20013178341256044e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -565,37 +85,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/End_of_Greys"
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvel_Entertainment"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Epic_Comics"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.22609523809523807"
+                    "value": "0.35272176606988215"
                 },
                 "p": {
                     "type": "uri",
@@ -606,205 +101,50 @@
                     "value": "parent",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4188034188034188"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19146631168068087e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
-                    "value": "true"
+                    "value": "false"
                 }
             },
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fall_of_the_Mutants"
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Malibu_Comics"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.27609840214043135"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "Publisher",
+                    "value": "parent",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fantastic_Four_(1967_TV_series)"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.4188034188034188"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/company"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "company",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fantastic_Four_(1997_video_game)"
-                },
-                "obj_rank": {
+                "rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fatal_Attractions_(comics)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/G.I._Joe:_A_Real_American_Hero_(Marvel_Comics)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Gabriel_Gecko"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Glenn_Greenberg"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jack_Kirby_bibliography"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "pub",
-                    "xml:lang": "en"
+                    "value": "0.16639898077330997e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -831,30 +171,15 @@
                     "value": "title",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jonathan_Hickman"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.4444444444444444"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
+                    "value": "0.16520954677497723e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -865,112 +190,12 @@
             {
                 "o": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jorge_Molina"
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Epic_Comics"
                 },
                 "obj_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Kaare_Andrews"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Lauren_Sankovitch"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Legion_Quest"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Malibu_Comics"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.27609840214043135"
+                    "value": "0.22609523809523807"
                 },
                 "p": {
                     "type": "uri",
@@ -981,805 +206,15 @@
                     "value": "parent",
                     "xml:lang": "en"
                 },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mariana_Manco"
-                },
-                "obj_rank": {
+                "prop_final_rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.15"
+                    "value": "0.4188034188034188"
                 },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Martin_Goodman"
-                },
-                "obj_rank": {
+                "rank": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "0.39892916713801696"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/founder(s)"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "founder(s)",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvel_Books"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "parent",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvel_Entertainment"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.35272176606988215"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "parent",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "false"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvelman"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Muir_Island_Saga"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mutant_Massacre"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Nick_J._Napolitano"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Operation:_Zero_Tolerance"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Planet_Hulk"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Revolution_(comics)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Smartship_Friday"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Spider-Man_(1967_TV_series)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/company"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "company",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Star_Trek:_Early_Voyages"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Steve_Smallwood"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Employers",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Superhero_comics"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.18927504006410256"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "pub",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Thanos_Rising"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Avengers:_United_They_Stand"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Dark_Phoenix_Saga"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Incredible_Hulk:_The_Pantheon_Saga"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Incredible_Hulk_(1994_video_game)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Stand:_Captain_Trips"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ultraforce"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Weapon_X_(story_arc)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Western_comics"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.19995877974303378"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "pub",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Cutioner's_Song"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Endangered_Species"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Eve_of_Destruction"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Messiah_Complex"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Second_Coming"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men_(TV_series)"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.16612565104166666"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
-                },
-                "reverse": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
-                    "type": "literal",
-                    "value": "true"
-                }
-            },
-            {
-                "o": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Tinction_Agenda"
-                },
-                "obj_rank": {
-                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
-                    "type": "literal",
-                    "value": "0.15"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
-                },
-                "p_label": {
-                    "type": "literal",
-                    "value": "Publisher",
-                    "xml:lang": "en"
+                    "value": "0.14682843215215247e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1807,10 +242,55 @@
                     "value": "headquarters",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.9316239316239316"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12919794547609642e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
                     "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men_(TV_series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16612565104166666"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12876959056615767e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
                 }
             },
             {
@@ -1833,6 +313,16 @@
                     "value": "publications",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.8803418803418803"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1281625881377022e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1841,8 +331,43 @@
             },
             {
                 "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Amazing-Man_(Centaur_Publications)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "Crime, horror, mystery, romance, science fiction, war, Western, superheroes",
+                    "value": "0.16368977252954636"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.1273011946188322e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "United States",
                     "xml:lang": "en"
                 },
                 "obj_rank": {
@@ -1852,17 +377,1287 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/genre"
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/country"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "genre",
+                    "value": "Country",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.8290598290598291"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.12701876909646442e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
                     "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ant-Man"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Apocalypse:_The_Twelve"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Assault_on_Weapon_Plus"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Champions_of_Xandar"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Conspiracy_(comics)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Days_of_Future_Present"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Deathurge"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Demon_in_a_Bottle"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/End_of_Greys"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fall_of_the_Mutants"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fantastic_Four_(1997_video_game)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fatal_Attractions_(comics)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/G.I._Joe:_A_Real_American_Hero_(Marvel_Comics)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Legion_Quest"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvelman"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Muir_Island_Saga"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mutant_Massacre"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Operation:_Zero_Tolerance"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Planet_Hulk"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Revolution_(comics)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Smartship_Friday"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Star_Trek:_Early_Voyages"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Thanos_Rising"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Avengers:_United_They_Stand"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Dark_Phoenix_Saga"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Incredible_Hulk:_The_Pantheon_Saga"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Incredible_Hulk_(1994_video_game)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/The_Stand:_Captain_Trips"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ultraforce"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Weapon_X_(story_arc)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Cutioner's_Song"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Endangered_Species"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Eve_of_Destruction"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Messiah_Complex"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Men:_Second_Coming"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/X-Tinction_Agenda"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publisher"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Publisher",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
                 }
             },
             {
@@ -1884,6 +1679,16 @@
                     "type": "literal",
                     "value": "keypeople",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
@@ -1911,6 +1716,16 @@
                     "value": "keypeople",
                     "xml:lang": "en"
                 },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.5726495726495726"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11886457717327024e0"
+                },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
@@ -1919,8 +1734,43 @@
             },
             {
                 "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aircel_Comics"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
                     "type": "literal",
-                    "value": "United States",
+                    "value": "0.16380415579692645"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parent",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4188034188034188"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11774948258957975e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "literal",
+                    "value": "Crime, horror, mystery, romance, science fiction, war, Western, superheroes",
                     "xml:lang": "en"
                 },
                 "obj_rank": {
@@ -1930,17 +1780,97 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/country"
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/genre"
                 },
                 "p_label": {
                     "type": "literal",
-                    "value": "Country",
+                    "value": "genre",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4700854700854701"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11371467953135768e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
                     "type": "literal",
                     "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Archie_Goodwin"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/title"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "title",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4444444444444444"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11214953271028037e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Marvel_Books"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/parent"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "parent",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.4188034188034188"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.11044327573253193e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
                 }
             },
             {
@@ -1962,6 +1892,856 @@
                     "type": "literal",
                     "value": "imprints",
                     "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.358974358974359"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.10579345088161209e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "false"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Western_comics"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.19995877974303378"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "pub",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.10256410256410256"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.06779187292462711e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Superhero_comics"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.18927504006410256"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "pub",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.10256410256410256"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.06651892013913512e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jack_Kirby_bibliography"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/pub"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "pub",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.10256410256410256"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.06091370558375634e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Fantastic_Four_(1967_TV_series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/company"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "company",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.04868913857677903"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.036757775683317624e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Spider-Man_(1967_TV_series)"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/company"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "company",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.04868913857677903"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.036757775683317624e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Brian_Denham"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.17023809523809524"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.028470459409685935e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Ardian_Syaf"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.16117142857142858"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.028205105769146636e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Antonio_Fabela"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aron_E._Coleite"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Aubrey_Sitterson"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Bill_Rosemann"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Blond"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Bob_Cram,_Jr."
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Crimelab_Studios"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Gabriel_Gecko"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Glenn_Greenberg"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jonathan_Hickman"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Jorge_Molina"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Kaare_Andrews"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Lauren_Sankovitch"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Mariana_Manco"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Nick_J._Napolitano"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Steve_Smallwood"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/employers"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "Employers",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.03418803418803419"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.027842227378190254e0"
+                },
+                "reverse": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+                    "type": "literal",
+                    "value": "true"
+                }
+            },
+            {
+                "o": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/resource/Martin_Goodman"
+                },
+                "obj_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.39892916713801696"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/founder(s)"
+                },
+                "p_label": {
+                    "type": "literal",
+                    "value": "founder(s)",
+                    "xml:lang": "en"
+                },
+                "prop_final_rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.008547008547008548"
+                },
+                "rank": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#double",
+                    "type": "literal",
+                    "value": "0.008367730936532727e0"
                 },
                 "reverse": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
