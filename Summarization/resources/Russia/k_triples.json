@@ -4,14 +4,14 @@
             "label": "capital",
             "r_resources": [],
             "resources": [
-                null
+                "Moscow"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/currency": {
             "label": "currency",
             "r_resources": [],
             "resources": [
-                null
+                "Russian ruble"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/established": {
@@ -32,30 +32,30 @@
             "label": "leader name",
             "r_resources": [],
             "resources": [
-                null,
-                null
+                "Dmitry Medvedev",
+                "Vladimir Putin"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/leaderTitle": {
             "label": "leader title",
             "r_resources": [],
             "resources": [
-                null,
-                null
+                "President",
+                "Prime Minister"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/nationalAnthem": {
             "label": "national anthem",
             "r_resources": [],
             "resources": [
-                null
+                "National Anthem of Russia"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/officialLanguages": {
             "label": "official languages",
             "r_resources": [],
             "resources": [
-                null
+                "Russian language"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/pob": {

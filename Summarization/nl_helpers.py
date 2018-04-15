@@ -232,6 +232,9 @@ def get_pred_pos_tag(subj_nm, pred_nm, objs):
     # print(objs)
     pred_pos = ''
     pred_pos_dict = {}
+    # print('subject',subj_nm)
+    # print('predicate',pred_nm)
+    # print('object',objs)
     for index in range(len(objs)):
         # print(objs[index])
         pos_tag = (nltk.pos_tag([subj_nm  , pred_nm , objs[index]])[1])[1]

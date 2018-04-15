@@ -54,7 +54,7 @@
             "label": "ratings",
             "r_resources": [],
             "resources": [
-                null
+                "ESRB: E"
             ]
         },
         "http://dbkwik.webdatacommons.org/Encyclopedia_Gami/property/released": {

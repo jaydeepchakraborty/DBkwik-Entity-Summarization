@@ -34,7 +34,7 @@
             "label": "format",
             "r_resources": [],
             "resources": [
-                null
+                "Animated television series"
             ]
         },
         "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/opentheme": {
@@ -48,10 +48,10 @@
             "label": "picture format",
             "r_resources": [],
             "resources": [
-                null,
-                null,
-                null,
-                null
+                "480i",
+                "720p",
+                "HDTV",
+                "SDTV"
             ]
         },
         "http://dbkwik.webdatacommons.org/Fairly_Odd_Parents_Wik/property/producer": {

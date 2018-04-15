@@ -28,11 +28,11 @@
             "label": "HUD",
             "r_resources": [],
             "resources": [
-                null,
-                null,
-                null,
-                null,
-                null,
+                "File:Colt .45 Pickup CoD.png",
+                "File:Colt .45 Pickup CoD2.png",
+                "File:M1911 HUD icon MW2.png",
+                "File:M1911 Pickup CoD4.png",
+                "File:WaW Pickup Colt.png",
                 "100",
                 "75"
             ]

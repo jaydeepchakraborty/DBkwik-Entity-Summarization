@@ -4,7 +4,7 @@
             "label": "Country",
             "r_resources": [],
             "resources": [
-                null
+                "United States"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/founded": {
@@ -18,8 +18,8 @@
             "label": "founder",
             "r_resources": [],
             "resources": [
-                null,
-                null
+                "Gary Groth",
+                "Mike Catron"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/headquarters": {
@@ -42,17 +42,17 @@
             "label": "imprints",
             "r_resources": [],
             "resources": [
-                null,
-                null
+                "Eros Comix",
+                "Ignatz Series"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/keypeople": {
             "label": "keypeople",
             "r_resources": [],
             "resources": [
-                null,
-                null,
-                null
+                "Gary Groth",
+                "Eric Reynolds",
+                "Kim Thompson"
             ]
         },
         "http://dbkwik.webdatacommons.org/Hey_Kids_Comics_Wik/property/publications": {

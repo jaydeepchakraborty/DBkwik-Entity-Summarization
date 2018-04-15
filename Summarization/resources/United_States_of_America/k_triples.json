@@ -4,7 +4,7 @@
             "label": "capital",
             "r_resources": [],
             "resources": [
-                null
+                "Washington, D.C."
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/country": {
@@ -69,15 +69,15 @@
             "label": "largest city",
             "r_resources": [],
             "resources": [
-                null
+                "New York City"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/leaderName": {
             "label": "leader name",
             "r_resources": [],
             "resources": [
-                null,
-                null
+                "Donald Trump",
+                "Mike Pence"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/locations": {
@@ -91,7 +91,7 @@
             "label": "official languages",
             "r_resources": [],
             "resources": [
-                null
+                "English language"
             ]
         },
         "http://dbkwik.webdatacommons.org/GTA_Wik/property/origin": {
